@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B0BA34AA-5138-4C3F-9FB4-363C09D55DEE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Spart</RootNamespace>
+    <AssemblyName>Spart</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Actions\ActionEventArgs.cs" />
+    <Compile Include="Actions\ActionHandler.cs" />
+    <Compile Include="Actions\Actions.cs" />
+    <Compile Include="Debug\DebugContext.cs" />
+    <Compile Include="Debug\Debugger.cs" />
+    <Compile Include="ParserError.cs" />
+    <Compile Include="ParserErrorException.cs" />
+    <Compile Include="Parsers\BinaryTerminalParser.cs" />
+    <Compile Include="Parsers\Composite\AlternativeParser.cs" />
+    <Compile Include="Parsers\Composite\DifferenceParser.cs" />
+    <Compile Include="Parsers\Composite\IntersectionParser.cs" />
+    <Compile Include="Parsers\Composite\ListParser.cs" />
+    <Compile Include="Parsers\Composite\RepetitionParser.cs" />
+    <Compile Include="Parsers\Composite\SequenceParser.cs" />
+    <Compile Include="Parsers\Composite\XorParser.cs" />
+    <Compile Include="Parsers\NegatableParser.cs" />
+    <Compile Include="Parsers\NonTerminal\AssertiveParser.cs" />
+    <Compile Include="Parsers\NonTerminal\IParserContext.cs" />
+    <Compile Include="Parsers\NonTerminal\NonTerminalParser.cs" />
+    <Compile Include="Parsers\NonTerminal\PostParseEventArgs.cs" />
+    <Compile Include="Parsers\NonTerminal\PostParseEventHandler.cs" />
+    <Compile Include="Parsers\NonTerminal\PreParseEventArgs.cs" />
+    <Compile Include="Parsers\NonTerminal\PreParseEventHandler.cs" />
+    <Compile Include="Parsers\NonTerminal\Rule.cs" />
+    <Compile Include="Parsers\Ops.cs" />
+    <Compile Include="Parsers\Parser.cs" />
+    <Compile Include="Parsers\ParserMatch.cs" />
+    <Compile Include="Parsers\Primitives\CharParser.cs" />
+    <Compile Include="Parsers\Primitives\CharRecognizer.cs" />
+    <Compile Include="Parsers\Primitives\EndParser.cs" />
+    <Compile Include="Parsers\Primitives\EolParser.cs" />
+    <Compile Include="Parsers\Primitives\NothingParser.cs" />
+    <Compile Include="Parsers\Primitives\StringParser.cs" />
+    <Compile Include="Parsers\Prims.cs" />
+    <Compile Include="Parsers\TerminalParser.cs" />
+    <Compile Include="Parsers\UnaryTerminalParser.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Scanners\IFilter.cs" />
+    <Compile Include="Scanners\IScanner.cs" />
+    <Compile Include="Scanners\StringScanner.cs" />
+    <Compile Include="Scanners\ToLowerFilter.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

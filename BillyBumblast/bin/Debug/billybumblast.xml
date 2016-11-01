@@ -1,0 +1,3590 @@
+<RflDb>
+  <Names>
+    <Name str="Global">1683194512</Name>
+    <Name str="rfl">714263832</Name>
+    <Name str="Module">3316387608</Name>
+    <Name str="rfl::Module">2524243237</Name>
+    <Name str="Function">2875236815</Name>
+    <Name str="rfl::Function">2510805542</Name>
+    <Name str="Field">7701715</Name>
+    <Name str="rfl::Field">3935624477</Name>
+    <Name str="Parameter">2113378320</Name>
+    <Name str="rfl::Parameter">446329422</Name>
+    <Name str="Enum">1711713218</Name>
+    <Name str="rfl::Enum">2806318872</Name>
+    <Name str="TemplateInstance">615504320</Name>
+    <Name str="rfl::TemplateInstance">18825425</Name>
+    <Name str="Template">1365958774</Name>
+    <Name str="rfl::Template">2087184469</Name>
+    <Name str="Class">3247531274</Name>
+    <Name str="rfl::Class">10196883</Name>
+    <Name str="BaseType">2631149575</Name>
+    <Name str="rfl::BaseType">1629383501</Name>
+    <Name str="Type">1294883688</Name>
+    <Name str="rfl::Type">2395482031</Name>
+    <Name str="Namespace">4002270860</Name>
+    <Name str="rfl::Namespace">3650987109</Name>
+    <Name str="Scope">675679255</Name>
+    <Name str="rfl::Scope">3716929007</Name>
+    <Name str="Name">4004688948</Name>
+    <Name str="double">1935252672</Name>
+    <Name str="float">3149513605</Name>
+    <Name str="unsigned __int64">2126274140</Name>
+    <Name str="unsigned long">4174769112</Name>
+    <Name str="unsigned int">1323032009</Name>
+    <Name str="unsigned short">951755896</Name>
+    <Name str="unsigned char">372582283</Name>
+    <Name str="__int64">4096747725</Name>
+    <Name str="long">4074252626</Name>
+    <Name str="int">2551841076</Name>
+    <Name str="short">251361738</Name>
+    <Name str="char">1718992050</Name>
+    <Name str="bool">1281642793</Name>
+    <Name str="void">1256909095</Name>
+    <Name str="std">2424375952</Name>
+    <Name str="vector">2614662477</Name>
+    <Name str="std::vector">1174096888</Name>
+    <Name str="allocator">3285345632</Name>
+    <Name str="std::allocator">936715381</Name>
+    <Name str="basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;">110309630</Name>
+    <Name str="std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;">4197426356</Name>
+    <Name str="Vec2Di">3663034420</Name>
+    <Name str="Configuration">1994060903</Name>
+    <Name str="GlobalEnum">2393314983</Name>
+    <Name str="BLAH">780238734</Name>
+    <Name str="FOREVER">290335756</Name>
+    <Name str="WHAT">708508406</Name>
+    <Name str="PODTest">2829383276</Name>
+    <Name str="ArrayReflection">3495047733</Name>
+    <Name str="group">4283856292</Name>
+    <Name str="transient">1781830787</Name>
+    <Name str="name">1372885882</Name>
+    <Name str="desc">1212300479</Name>
+    <Name str="value">2643112497</Name>
+    <Name str="min">555777706</Name>
+    <Name str="max">2736198164</Name>
+    <Name str="vector&lt;int,std::allocator&lt;int&gt; &gt;">3491666232</Name>
+    <Name str="std::vector&lt;int,std::allocator&lt;int&gt; &gt;">2580854266</Name>
+    <Name str="vector&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,std::allocator&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt; &gt; &gt;">2781867864</Name>
+    <Name str="std::vector&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,std::allocator&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt; &gt; &gt;">282764915</Name>
+    <Name str="NestedClassTest">2444857016</Name>
+    <Name str="PODTest::NestedClassTest">1717934819</Name>
+    <Name str="vector&lt;rfl::Parameter,std::allocator&lt;rfl::Parameter&gt; &gt;">430042867</Name>
+    <Name str="std::vector&lt;rfl::Parameter,std::allocator&lt;rfl::Parameter&gt; &gt;">2530960184</Name>
+    <Name str="Modifier">3598009262</Name>
+    <Name str="rfl::Parameter::Modifier">64573684</Name>
+    <Name str="VALUE">2932305940</Name>
+    <Name str="POINTER">4273406451</Name>
+    <Name str="REFERENCE">837378909</Name>
+    <Name str="Entry">1477674133</Name>
+    <Name str="rfl::Enum::Entry">2509853793</Name>
+    <Name str="vector&lt;rfl::Enum::Entry,std::allocator&lt;rfl::Enum::Entry&gt; &gt;">254208823</Name>
+    <Name str="std::vector&lt;rfl::Enum::Entry,std::allocator&lt;rfl::Enum::Entry&gt; &gt;">1485146035</Name>
+    <Name str="vector&lt;rfl::Field,std::allocator&lt;rfl::Field&gt; &gt;">4124304075</Name>
+    <Name str="std::vector&lt;rfl::Field,std::allocator&lt;rfl::Field&gt; &gt;">1737827958</Name>
+    <Name str="vector&lt;rfl::Namespace,std::allocator&lt;rfl::Namespace&gt; &gt;">274593683</Name>
+    <Name str="std::vector&lt;rfl::Namespace,std::allocator&lt;rfl::Namespace&gt; &gt;">3793507143</Name>
+    <Name str="vector&lt;rfl::BaseType,std::allocator&lt;rfl::BaseType&gt; &gt;">913439464</Name>
+    <Name str="std::vector&lt;rfl::BaseType,std::allocator&lt;rfl::BaseType&gt; &gt;">2710163203</Name>
+    <Name str="vector&lt;rfl::Class,std::allocator&lt;rfl::Class&gt; &gt;">1102058596</Name>
+    <Name str="std::vector&lt;rfl::Class,std::allocator&lt;rfl::Class&gt; &gt;">3257442634</Name>
+    <Name str="vector&lt;rfl::Template,std::allocator&lt;rfl::Template&gt; &gt;">166424111</Name>
+    <Name str="std::vector&lt;rfl::Template,std::allocator&lt;rfl::Template&gt; &gt;">285806532</Name>
+    <Name str="vector&lt;rfl::TemplateInstance,std::allocator&lt;rfl::TemplateInstance&gt; &gt;">1033525868</Name>
+    <Name str="std::vector&lt;rfl::TemplateInstance,std::allocator&lt;rfl::TemplateInstance&gt; &gt;">1031358589</Name>
+    <Name str="vector&lt;rfl::Enum,std::allocator&lt;rfl::Enum&gt; &gt;">2143206054</Name>
+    <Name str="std::vector&lt;rfl::Enum,std::allocator&lt;rfl::Enum&gt; &gt;">253731865</Name>
+    <Name str="vector&lt;rfl::Function,std::allocator&lt;rfl::Function&gt; &gt;">298314185</Name>
+    <Name str="std::vector&lt;rfl::Function,std::allocator&lt;rfl::Function&gt; &gt;">2223908658</Name>
+  </Names>
+  <Namespace>
+    <Name str="Global">1683194512</Name>
+    <FullName str="Global">1683194512</FullName>
+    <Namespaces>
+      <Namespace>
+        <Name str="rfl">714263832</Name>
+        <FullName str="rfl">714263832</FullName>
+        <Classes>
+          <Class>
+            <Name str="Module">3316387608</Name>
+            <FullName str="rfl::Module">2524243237</FullName>
+            <Functions>
+              <Function>
+                <Name str="Module">3316387608</Name>
+                <CallAddress>565168</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Module">2524243237</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="__that">558921669</Name>
+                    <Type str="rfl::Module">2524243237</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="Module">3316387608</Name>
+                <CallAddress>565344</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Module">2524243237</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="~Module">2208324611</Name>
+                <CallAddress>565264</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Module">2524243237</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="operator=">908682916</Name>
+                <CallAddress>565440</CallAddress>
+                <ReturnParameter>
+                  <Type str="rfl::Module">2524243237</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Reference</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Module">2524243237</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="__that">558921669</Name>
+                    <Type str="rfl::Module">2524243237</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+            </Functions>
+            <UniqueID>0</UniqueID>
+            <Size>220</Size>
+            <TypeOfVA>0</TypeOfVA>
+            <ConstructorIndex>1</ConstructorIndex>
+            <DestructorIndex>2</DestructorIndex>
+            <CopyConstructorIndex>0</CopyConstructorIndex>
+            <AssignmentOperatorIndex>3</AssignmentOperatorIndex>
+            <IsPOD>False</IsPOD>
+            <Fields>
+              <Field>
+                <Name str="global_namespace">929991725</Name>
+                <Type str="rfl::Namespace">3650987109</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Value</Modifier>
+                <Offset>0</Offset>
+              </Field>
+            </Fields>
+          </Class>
+          <Class>
+            <Name str="Function">2875236815</Name>
+            <FullName str="rfl::Function">2510805542</FullName>
+            <Functions>
+              <Function>
+                <Name str="Function">2875236815</Name>
+                <CallAddress>563872</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Function">2510805542</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="__that">558921669</Name>
+                    <Type str="rfl::Function">2510805542</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="Function">2875236815</Name>
+                <CallAddress>553072</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Function">2510805542</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="Call">828544683</Name>
+                <CallAddress>521120</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Function">2510805542</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="object">3003551893</Name>
+                    <Type str="void">1256909095</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="Call">828544683</Name>
+                <CallAddress>521008</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Function">2510805542</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="~Function">4083963724</Name>
+                <CallAddress>564112</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Function">2510805542</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="operator=">908682916</Name>
+                <CallAddress>565008</CallAddress>
+                <ReturnParameter>
+                  <Type str="rfl::Function">2510805542</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Reference</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Function">2510805542</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="__that">558921669</Name>
+                    <Type str="rfl::Function">2510805542</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+            </Functions>
+            <UniqueID>1</UniqueID>
+            <Size>112</Size>
+            <TypeOfVA>0</TypeOfVA>
+            <ConstructorIndex>1</ConstructorIndex>
+            <DestructorIndex>4</DestructorIndex>
+            <CopyConstructorIndex>0</CopyConstructorIndex>
+            <AssignmentOperatorIndex>5</AssignmentOperatorIndex>
+            <IsPOD>False</IsPOD>
+            <Fields>
+              <Field>
+                <Name str="name">1372885882</Name>
+                <Type str="Name">4004688948</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Value</Modifier>
+                <Offset>0</Offset>
+              </Field>
+              <Field>
+                <Name str="call_address">2326327551</Name>
+                <Type str="unsigned int">1323032009</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Value</Modifier>
+                <Offset>36</Offset>
+              </Field>
+              <Field>
+                <Name str="return_parameter">898383905</Name>
+                <Type str="rfl::Parameter">446329422</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Value</Modifier>
+                <Offset>40</Offset>
+              </Field>
+              <Field>
+                <Name str="parameters">1468393493</Name>
+                <Type str="std::vector&lt;rfl::Parameter,std::allocator&lt;rfl::Parameter&gt; &gt;">2530960184</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Value</Modifier>
+                <Offset>92</Offset>
+              </Field>
+            </Fields>
+          </Class>
+          <Class>
+            <Name str="Field">7701715</Name>
+            <FullName str="rfl::Field">3935624477</FullName>
+            <Functions>
+              <Function>
+                <Name str="Field">7701715</Name>
+                <CallAddress>563568</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Field">3935624477</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="__that">558921669</Name>
+                    <Type str="rfl::Field">3935624477</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="Field">7701715</Name>
+                <CallAddress>552656</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Field">3935624477</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="~Field">3792830234</Name>
+                <CallAddress>563680</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Field">3935624477</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="operator=">908682916</Name>
+                <CallAddress>563760</CallAddress>
+                <ReturnParameter>
+                  <Type str="rfl::Field">3935624477</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Reference</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Field">3935624477</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="__that">558921669</Name>
+                    <Type str="rfl::Field">3935624477</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+            </Functions>
+            <UniqueID>2</UniqueID>
+            <Size>56</Size>
+            <TypeOfVA>0</TypeOfVA>
+            <ConstructorIndex>1</ConstructorIndex>
+            <DestructorIndex>2</DestructorIndex>
+            <CopyConstructorIndex>0</CopyConstructorIndex>
+            <AssignmentOperatorIndex>3</AssignmentOperatorIndex>
+            <IsPOD>False</IsPOD>
+            <Fields>
+              <Field>
+                <Name str="offset">1931034390</Name>
+                <Type str="unsigned int">1323032009</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Value</Modifier>
+                <Offset>52</Offset>
+              </Field>
+            </Fields>
+          </Class>
+          <Class>
+            <Name str="Parameter">2113378320</Name>
+            <FullName str="rfl::Parameter">446329422</FullName>
+            <Enums>
+              <Enum>
+                <Name str="Modifier">3598009262</Name>
+                <FullName str="rfl::Parameter::Modifier">64573684</FullName>
+                <UniqueID>39</UniqueID>
+                <Size>4</Size>
+                <TypeOfVA>0</TypeOfVA>
+                <Entries>
+                  <Entry>
+                    <Name str="VALUE">2932305940</Name>
+                    <Value>0</Value>
+                  </Entry>
+                  <Entry>
+                    <Name str="POINTER">4273406451</Name>
+                    <Value>1</Value>
+                  </Entry>
+                  <Entry>
+                    <Name str="REFERENCE">837378909</Name>
+                    <Value>2</Value>
+                  </Entry>
+                </Entries>
+              </Enum>
+            </Enums>
+            <Functions>
+              <Function>
+                <Name str="Parameter">2113378320</Name>
+                <CallAddress>562992</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Parameter">446329422</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="__that">558921669</Name>
+                    <Type str="rfl::Parameter">446329422</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="Parameter">2113378320</Name>
+                <CallAddress>552080</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Parameter">446329422</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="~Parameter">374401531</Name>
+                <CallAddress>552272</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Parameter">446329422</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="operator=">908682916</Name>
+                <CallAddress>563280</CallAddress>
+                <ReturnParameter>
+                  <Type str="rfl::Parameter">446329422</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Reference</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Parameter">446329422</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="__that">558921669</Name>
+                    <Type str="rfl::Parameter">446329422</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+            </Functions>
+            <UniqueID>3</UniqueID>
+            <Size>52</Size>
+            <TypeOfVA>0</TypeOfVA>
+            <ConstructorIndex>1</ConstructorIndex>
+            <DestructorIndex>2</DestructorIndex>
+            <CopyConstructorIndex>0</CopyConstructorIndex>
+            <AssignmentOperatorIndex>3</AssignmentOperatorIndex>
+            <IsPOD>False</IsPOD>
+            <Fields>
+              <Field>
+                <Name str="name">1372885882</Name>
+                <Type str="Name">4004688948</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Value</Modifier>
+                <Offset>0</Offset>
+              </Field>
+              <Field>
+                <Name str="type">3133414656</Name>
+                <Type str="rfl::Type">2395482031</Type>
+                <IsConst>True</IsConst>
+                <Modifier>Pointer</Modifier>
+                <Offset>36</Offset>
+              </Field>
+              <Field>
+                <Name str="is_const">259477255</Name>
+                <Type str="bool">1281642793</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Value</Modifier>
+                <Offset>40</Offset>
+              </Field>
+              <Field>
+                <Name str="array_rank">1007418793</Name>
+                <Type str="unsigned int">1323032009</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Value</Modifier>
+                <Offset>44</Offset>
+              </Field>
+              <Field>
+                <Name str="array_length_0">1869159536</Name>
+                <Type str="unsigned int">1323032009</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Value</Modifier>
+                <Offset>44</Offset>
+              </Field>
+              <Field>
+                <Name str="array_length_1">1418426531</Name>
+                <Type str="unsigned int">1323032009</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Value</Modifier>
+                <Offset>44</Offset>
+              </Field>
+              <Field>
+                <Name str="modifier">3188474717</Name>
+                <Type str="rfl::Parameter::Modifier">64573684</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Value</Modifier>
+                <Offset>48</Offset>
+              </Field>
+            </Fields>
+          </Class>
+          <Class>
+            <Name str="Enum">1711713218</Name>
+            <FullName str="rfl::Enum">2806318872</FullName>
+            <Classes>
+              <Class>
+                <Name str="Entry">1477674133</Name>
+                <FullName str="rfl::Enum::Entry">2509853793</FullName>
+                <Functions>
+                  <Function>
+                    <Name str="Entry">1477674133</Name>
+                    <CallAddress>671824</CallAddress>
+                    <ReturnParameter>
+                      <Type str="void">1256909095</Type>
+                      <IsConst>False</IsConst>
+                      <Modifier>Value</Modifier>
+                    </ReturnParameter>
+                    <Parameters>
+                      <Parameter>
+                        <Name str="this">323649500</Name>
+                        <Type str="rfl::Enum::Entry">2509853793</Type>
+                        <IsConst>False</IsConst>
+                        <Modifier>Pointer</Modifier>
+                      </Parameter>
+                      <Parameter>
+                        <Name str="__that">558921669</Name>
+                        <Type str="rfl::Enum::Entry">2509853793</Type>
+                        <IsConst>True</IsConst>
+                        <Modifier>Reference</Modifier>
+                      </Parameter>
+                    </Parameters>
+                  </Function>
+                  <Function>
+                    <Name str="Entry">1477674133</Name>
+                    <CallAddress>716432</CallAddress>
+                    <ReturnParameter>
+                      <Type str="void">1256909095</Type>
+                      <IsConst>False</IsConst>
+                      <Modifier>Value</Modifier>
+                    </ReturnParameter>
+                    <Parameters>
+                      <Parameter>
+                        <Name str="this">323649500</Name>
+                        <Type str="rfl::Enum::Entry">2509853793</Type>
+                        <IsConst>False</IsConst>
+                        <Modifier>Pointer</Modifier>
+                      </Parameter>
+                    </Parameters>
+                  </Function>
+                  <Function>
+                    <Name str="~Entry">1774256988</Name>
+                    <CallAddress>655808</CallAddress>
+                    <ReturnParameter>
+                      <Type str="void">1256909095</Type>
+                      <IsConst>False</IsConst>
+                      <Modifier>Value</Modifier>
+                    </ReturnParameter>
+                    <Parameters>
+                      <Parameter>
+                        <Name str="this">323649500</Name>
+                        <Type str="rfl::Enum::Entry">2509853793</Type>
+                        <IsConst>False</IsConst>
+                        <Modifier>Pointer</Modifier>
+                      </Parameter>
+                    </Parameters>
+                  </Function>
+                  <Function>
+                    <Name str="operator=">908682916</Name>
+                    <CallAddress>655584</CallAddress>
+                    <ReturnParameter>
+                      <Type str="rfl::Enum::Entry">2509853793</Type>
+                      <IsConst>False</IsConst>
+                      <Modifier>Reference</Modifier>
+                    </ReturnParameter>
+                    <Parameters>
+                      <Parameter>
+                        <Name str="this">323649500</Name>
+                        <Type str="rfl::Enum::Entry">2509853793</Type>
+                        <IsConst>False</IsConst>
+                        <Modifier>Pointer</Modifier>
+                      </Parameter>
+                      <Parameter>
+                        <Name str="__that">558921669</Name>
+                        <Type str="rfl::Enum::Entry">2509853793</Type>
+                        <IsConst>True</IsConst>
+                        <Modifier>Reference</Modifier>
+                      </Parameter>
+                    </Parameters>
+                  </Function>
+                </Functions>
+                <UniqueID>40</UniqueID>
+                <Size>40</Size>
+                <TypeOfVA>0</TypeOfVA>
+                <ConstructorIndex>1</ConstructorIndex>
+                <DestructorIndex>2</DestructorIndex>
+                <CopyConstructorIndex>0</CopyConstructorIndex>
+                <AssignmentOperatorIndex>3</AssignmentOperatorIndex>
+                <IsPOD>False</IsPOD>
+                <Fields>
+                  <Field>
+                    <Name str="name">1372885882</Name>
+                    <Type str="Name">4004688948</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Value</Modifier>
+                    <Offset>0</Offset>
+                  </Field>
+                  <Field>
+                    <Name str="value">2643112497</Name>
+                    <Type str="int">2551841076</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Value</Modifier>
+                    <Offset>36</Offset>
+                  </Field>
+                </Fields>
+              </Class>
+            </Classes>
+            <Functions>
+              <Function>
+                <Name str="Enum">1711713218</Name>
+                <CallAddress>562320</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Enum">2806318872</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="__that">558921669</Name>
+                    <Type str="rfl::Enum">2806318872</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="Enum">1711713218</Name>
+                <CallAddress>562688</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Enum">2806318872</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="~Enum">153975615</Name>
+                <CallAddress>562512</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Enum">2806318872</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="operator=">908682916</Name>
+                <CallAddress>562864</CallAddress>
+                <ReturnParameter>
+                  <Type str="rfl::Enum">2806318872</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Reference</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Enum">2806318872</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="__that">558921669</Name>
+                    <Type str="rfl::Enum">2806318872</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+            </Functions>
+            <UniqueID>4</UniqueID>
+            <Size>276</Size>
+            <TypeOfVA>0</TypeOfVA>
+            <ConstructorIndex>1</ConstructorIndex>
+            <DestructorIndex>2</DestructorIndex>
+            <CopyConstructorIndex>0</CopyConstructorIndex>
+            <AssignmentOperatorIndex>3</AssignmentOperatorIndex>
+            <IsPOD>False</IsPOD>
+            <Fields>
+              <Field>
+                <Name str="entries">2275973198</Name>
+                <Type str="std::vector&lt;rfl::Enum::Entry,std::allocator&lt;rfl::Enum::Entry&gt; &gt;">1485146035</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Value</Modifier>
+                <Offset>256</Offset>
+              </Field>
+            </Fields>
+          </Class>
+          <Class>
+            <Name str="TemplateInstance">615504320</Name>
+            <FullName str="rfl::TemplateInstance">18825425</FullName>
+            <Functions>
+              <Function>
+                <Name str="TemplateInstance">615504320</Name>
+                <CallAddress>561824</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::TemplateInstance">18825425</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="__that">558921669</Name>
+                    <Type str="rfl::TemplateInstance">18825425</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="TemplateInstance">615504320</Name>
+                <CallAddress>562064</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::TemplateInstance">18825425</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="~TemplateInstance">2645634683</Name>
+                <CallAddress>561984</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::TemplateInstance">18825425</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="operator=">908682916</Name>
+                <CallAddress>562160</CallAddress>
+                <ReturnParameter>
+                  <Type str="rfl::TemplateInstance">18825425</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Reference</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::TemplateInstance">18825425</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="__that">558921669</Name>
+                    <Type str="rfl::TemplateInstance">18825425</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+            </Functions>
+            <UniqueID>5</UniqueID>
+            <Size>268</Size>
+            <TypeOfVA>1507644</TypeOfVA>
+            <ConstructorIndex>1</ConstructorIndex>
+            <DestructorIndex>2</DestructorIndex>
+            <CopyConstructorIndex>0</CopyConstructorIndex>
+            <AssignmentOperatorIndex>3</AssignmentOperatorIndex>
+            <IsPOD>False</IsPOD>
+            <Fields>
+              <Field>
+                <Name str="instance_of">536752185</Name>
+                <Type str="rfl::Template">2087184469</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Pointer</Modifier>
+                <Offset>256</Offset>
+              </Field>
+              <Field>
+                <Name str="type0">3507509971</Name>
+                <Type str="rfl::Type">2395482031</Type>
+                <IsConst>True</IsConst>
+                <Modifier>Pointer</Modifier>
+                <Offset>260</Offset>
+              </Field>
+              <Field>
+                <Name str="type1">2799695300</Name>
+                <Type str="rfl::Type">2395482031</Type>
+                <IsConst>True</IsConst>
+                <Modifier>Pointer</Modifier>
+                <Offset>264</Offset>
+              </Field>
+            </Fields>
+          </Class>
+          <Class>
+            <Name str="Template">1365958774</Name>
+            <FullName str="rfl::Template">2087184469</FullName>
+            <Functions>
+              <Function>
+                <Name str="Template">1365958774</Name>
+                <CallAddress>561456</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Template">2087184469</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="__that">558921669</Name>
+                    <Type str="rfl::Template">2087184469</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="Template">1365958774</Name>
+                <CallAddress>561632</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Template">2087184469</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="~Template">2316363178</Name>
+                <CallAddress>561552</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Template">2087184469</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="operator=">908682916</Name>
+                <CallAddress>561728</CallAddress>
+                <ReturnParameter>
+                  <Type str="rfl::Template">2087184469</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Reference</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Template">2087184469</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="__that">558921669</Name>
+                    <Type str="rfl::Template">2087184469</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+            </Functions>
+            <UniqueID>6</UniqueID>
+            <Size>256</Size>
+            <TypeOfVA>0</TypeOfVA>
+            <ConstructorIndex>1</ConstructorIndex>
+            <DestructorIndex>2</DestructorIndex>
+            <CopyConstructorIndex>0</CopyConstructorIndex>
+            <AssignmentOperatorIndex>3</AssignmentOperatorIndex>
+            <IsPOD>False</IsPOD>
+          </Class>
+          <Class>
+            <Name str="Class">3247531274</Name>
+            <FullName str="rfl::Class">10196883</FullName>
+            <Functions>
+              <Function>
+                <Name str="Class">3247531274</Name>
+                <CallAddress>560208</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Class">10196883</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="__that">558921669</Name>
+                    <Type str="rfl::Class">10196883</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="Class">3247531274</Name>
+                <CallAddress>549168</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Class">10196883</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="~Class">179403083</Name>
+                <CallAddress>560432</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Class">10196883</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="operator=">908682916</Name>
+                <CallAddress>561312</CallAddress>
+                <ReturnParameter>
+                  <Type str="rfl::Class">10196883</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Reference</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Class">10196883</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="__that">558921669</Name>
+                    <Type str="rfl::Class">10196883</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+            </Functions>
+            <UniqueID>7</UniqueID>
+            <Size>280</Size>
+            <TypeOfVA>1507640</TypeOfVA>
+            <ConstructorIndex>1</ConstructorIndex>
+            <DestructorIndex>2</DestructorIndex>
+            <CopyConstructorIndex>0</CopyConstructorIndex>
+            <AssignmentOperatorIndex>3</AssignmentOperatorIndex>
+            <IsPOD>False</IsPOD>
+            <Fields>
+              <Field>
+                <Name str="is_pod">779826427</Name>
+                <Type str="bool">1281642793</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Value</Modifier>
+                <Offset>256</Offset>
+              </Field>
+              <Field>
+                <Name str="fields">2017957317</Name>
+                <Type str="std::vector&lt;rfl::Field,std::allocator&lt;rfl::Field&gt; &gt;">1737827958</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Value</Modifier>
+                <Offset>260</Offset>
+              </Field>
+            </Fields>
+          </Class>
+          <Class>
+            <Name str="BaseType">2631149575</Name>
+            <FullName str="rfl::BaseType">1629383501</FullName>
+            <Functions>
+              <Function>
+                <Name str="BaseType">2631149575</Name>
+                <CallAddress>559840</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::BaseType">1629383501</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="__that">558921669</Name>
+                    <Type str="rfl::BaseType">1629383501</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="BaseType">2631149575</Name>
+                <CallAddress>560016</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::BaseType">1629383501</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="~BaseType">3713186463</Name>
+                <CallAddress>559936</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::BaseType">1629383501</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="operator=">908682916</Name>
+                <CallAddress>560112</CallAddress>
+                <ReturnParameter>
+                  <Type str="rfl::BaseType">1629383501</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Reference</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::BaseType">1629383501</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="__that">558921669</Name>
+                    <Type str="rfl::BaseType">1629383501</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+            </Functions>
+            <UniqueID>8</UniqueID>
+            <Size>256</Size>
+            <TypeOfVA>1507636</TypeOfVA>
+            <ConstructorIndex>1</ConstructorIndex>
+            <DestructorIndex>2</DestructorIndex>
+            <CopyConstructorIndex>0</CopyConstructorIndex>
+            <AssignmentOperatorIndex>3</AssignmentOperatorIndex>
+            <IsPOD>False</IsPOD>
+          </Class>
+          <Class>
+            <Name str="Type">1294883688</Name>
+            <FullName str="rfl::Type">2395482031</FullName>
+            <Functions>
+              <Function>
+                <Name str="Type">1294883688</Name>
+                <CallAddress>559232</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Type">2395482031</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="__that">558921669</Name>
+                    <Type str="rfl::Type">2395482031</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="Type">1294883688</Name>
+                <CallAddress>548208</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Type">2395482031</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="CreateObject">2303365673</Name>
+                <CallAddress>520848</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Pointer</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Type">2395482031</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="~Type">967295094</Name>
+                <CallAddress>548448</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Type">2395482031</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="operator=">908682916</Name>
+                <CallAddress>559536</CallAddress>
+                <ReturnParameter>
+                  <Type str="rfl::Type">2395482031</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Reference</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Type">2395482031</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="__that">558921669</Name>
+                    <Type str="rfl::Type">2395482031</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+            </Functions>
+            <UniqueID>9</UniqueID>
+            <Size>256</Size>
+            <TypeOfVA>0</TypeOfVA>
+            <ConstructorIndex>1</ConstructorIndex>
+            <DestructorIndex>3</DestructorIndex>
+            <CopyConstructorIndex>0</CopyConstructorIndex>
+            <AssignmentOperatorIndex>4</AssignmentOperatorIndex>
+            <IsPOD>False</IsPOD>
+            <Fields>
+              <Field>
+                <Name str="unique_id">2751945169</Name>
+                <Type str="unsigned int">1323032009</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Value</Modifier>
+                <Offset>220</Offset>
+              </Field>
+              <Field>
+                <Name str="size">1352728461</Name>
+                <Type str="unsigned int">1323032009</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Value</Modifier>
+                <Offset>224</Offset>
+              </Field>
+              <Field>
+                <Name str="typeof_va">3750231796</Name>
+                <Type str="unsigned int">1323032009</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Value</Modifier>
+                <Offset>228</Offset>
+              </Field>
+              <Field>
+                <Name str="constructor">4046547084</Name>
+                <Type str="rfl::Function">2510805542</Type>
+                <IsConst>True</IsConst>
+                <Modifier>Pointer</Modifier>
+                <Offset>232</Offset>
+              </Field>
+              <Field>
+                <Name str="destructor">2782515181</Name>
+                <Type str="rfl::Function">2510805542</Type>
+                <IsConst>True</IsConst>
+                <Modifier>Pointer</Modifier>
+                <Offset>236</Offset>
+              </Field>
+              <Field>
+                <Name str="copy_constructor">2237557343</Name>
+                <Type str="rfl::Function">2510805542</Type>
+                <IsConst>True</IsConst>
+                <Modifier>Pointer</Modifier>
+                <Offset>240</Offset>
+              </Field>
+              <Field>
+                <Name str="assignment_operator">2353545867</Name>
+                <Type str="rfl::Function">2510805542</Type>
+                <IsConst>True</IsConst>
+                <Modifier>Pointer</Modifier>
+                <Offset>244</Offset>
+              </Field>
+            </Fields>
+          </Class>
+          <Class>
+            <Name str="Namespace">4002270860</Name>
+            <FullName str="rfl::Namespace">3650987109</FullName>
+            <Functions>
+              <Function>
+                <Name str="Namespace">4002270860</Name>
+                <CallAddress>558864</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Namespace">3650987109</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="__that">558921669</Name>
+                    <Type str="rfl::Namespace">3650987109</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="Namespace">4002270860</Name>
+                <CallAddress>559040</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Namespace">3650987109</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="~Namespace">3653115064</Name>
+                <CallAddress>558960</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Namespace">3650987109</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="operator=">908682916</Name>
+                <CallAddress>559136</CallAddress>
+                <ReturnParameter>
+                  <Type str="rfl::Namespace">3650987109</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Reference</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Namespace">3650987109</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="__that">558921669</Name>
+                    <Type str="rfl::Namespace">3650987109</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+            </Functions>
+            <UniqueID>10</UniqueID>
+            <Size>220</Size>
+            <TypeOfVA>0</TypeOfVA>
+            <ConstructorIndex>1</ConstructorIndex>
+            <DestructorIndex>2</DestructorIndex>
+            <CopyConstructorIndex>0</CopyConstructorIndex>
+            <AssignmentOperatorIndex>3</AssignmentOperatorIndex>
+            <IsPOD>False</IsPOD>
+          </Class>
+          <Class>
+            <Name str="Scope">675679255</Name>
+            <FullName str="rfl::Scope">3716929007</FullName>
+            <Functions>
+              <Function>
+                <Name str="Scope">675679255</Name>
+                <CallAddress>558128</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Scope">3716929007</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="__that">558921669</Name>
+                    <Type str="rfl::Scope">3716929007</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="Scope">675679255</Name>
+                <CallAddress>528160</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Scope">3716929007</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="~Scope">2298034405</Name>
+                <CallAddress>528672</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Scope">3716929007</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="operator=">908682916</Name>
+                <CallAddress>558544</CallAddress>
+                <ReturnParameter>
+                  <Type str="rfl::Scope">3716929007</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Reference</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="rfl::Scope">3716929007</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="__that">558921669</Name>
+                    <Type str="rfl::Scope">3716929007</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+            </Functions>
+            <UniqueID>11</UniqueID>
+            <Size>220</Size>
+            <TypeOfVA>0</TypeOfVA>
+            <ConstructorIndex>1</ConstructorIndex>
+            <DestructorIndex>2</DestructorIndex>
+            <CopyConstructorIndex>0</CopyConstructorIndex>
+            <AssignmentOperatorIndex>3</AssignmentOperatorIndex>
+            <IsPOD>False</IsPOD>
+            <Fields>
+              <Field>
+                <Name str="parent_scope">310221030</Name>
+                <Type str="rfl::Scope">3716929007</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Pointer</Modifier>
+                <Offset>40</Offset>
+              </Field>
+              <Field>
+                <Name str="full_name">935213864</Name>
+                <Type str="Name">4004688948</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Value</Modifier>
+                <Offset>44</Offset>
+              </Field>
+              <Field>
+                <Name str="namespaces">2882761275</Name>
+                <Type str="std::vector&lt;rfl::Namespace,std::allocator&lt;rfl::Namespace&gt; &gt;">3793507143</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Value</Modifier>
+                <Offset>80</Offset>
+              </Field>
+              <Field>
+                <Name str="base_types">2936086435</Name>
+                <Type str="std::vector&lt;rfl::BaseType,std::allocator&lt;rfl::BaseType&gt; &gt;">2710163203</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Value</Modifier>
+                <Offset>100</Offset>
+              </Field>
+              <Field>
+                <Name str="classes">173513581</Name>
+                <Type str="std::vector&lt;rfl::Class,std::allocator&lt;rfl::Class&gt; &gt;">3257442634</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Value</Modifier>
+                <Offset>120</Offset>
+              </Field>
+              <Field>
+                <Name str="templates">3817716571</Name>
+                <Type str="std::vector&lt;rfl::Template,std::allocator&lt;rfl::Template&gt; &gt;">285806532</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Value</Modifier>
+                <Offset>140</Offset>
+              </Field>
+              <Field>
+                <Name str="template_instances">3968443110</Name>
+                <Type str="std::vector&lt;rfl::TemplateInstance,std::allocator&lt;rfl::TemplateInstance&gt; &gt;">1031358589</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Value</Modifier>
+                <Offset>160</Offset>
+              </Field>
+              <Field>
+                <Name str="enums">3635619903</Name>
+                <Type str="std::vector&lt;rfl::Enum,std::allocator&lt;rfl::Enum&gt; &gt;">253731865</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Value</Modifier>
+                <Offset>180</Offset>
+              </Field>
+              <Field>
+                <Name str="functions">170154106</Name>
+                <Type str="std::vector&lt;rfl::Function,std::allocator&lt;rfl::Function&gt; &gt;">2223908658</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Value</Modifier>
+                <Offset>200</Offset>
+              </Field>
+            </Fields>
+          </Class>
+        </Classes>
+      </Namespace>
+      <Namespace>
+        <Name str="std">2424375952</Name>
+        <FullName str="std">2424375952</FullName>
+        <Classes>
+          <Class>
+            <Name str="basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;">110309630</Name>
+            <FullName str="std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;">4197426356</FullName>
+            <Functions>
+              <Function>
+                <Name str="basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;">110309630</Name>
+                <CallAddress>538624</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;">4197426356</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="_Right">2830497290</Name>
+                    <Type str="std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;">4197426356</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;">110309630</Name>
+                <CallAddress>526112</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;">4197426356</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="~basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;">3821830289</Name>
+                <CallAddress>526304</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;">4197426356</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="operator=">908682916</Name>
+                <CallAddress>565760</CallAddress>
+                <ReturnParameter>
+                  <Type str="std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;">4197426356</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Reference</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;">4197426356</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="_Right">2830497290</Name>
+                    <Type str="std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;">4197426356</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+            </Functions>
+            <UniqueID>29</UniqueID>
+            <Size>32</Size>
+            <TypeOfVA>1507648</TypeOfVA>
+            <ConstructorIndex>1</ConstructorIndex>
+            <DestructorIndex>2</DestructorIndex>
+            <CopyConstructorIndex>0</CopyConstructorIndex>
+            <AssignmentOperatorIndex>3</AssignmentOperatorIndex>
+            <IsPOD>False</IsPOD>
+          </Class>
+        </Classes>
+        <Templates>
+          <Template>
+            <Name str="vector">2614662477</Name>
+            <FullName str="std::vector">1174096888</FullName>
+            <UniqueID>27</UniqueID>
+            <Size>0</Size>
+            <TypeOfVA>0</TypeOfVA>
+          </Template>
+          <Template>
+            <Name str="allocator">3285345632</Name>
+            <FullName str="std::allocator">936715381</FullName>
+            <UniqueID>28</UniqueID>
+            <Size>0</Size>
+            <TypeOfVA>0</TypeOfVA>
+          </Template>
+        </Templates>
+        <TemplateInstances>
+          <TemplateInstance>
+            <Name str="vector&lt;int,std::allocator&lt;int&gt; &gt;">3491666232</Name>
+            <FullName str="std::vector&lt;int,std::allocator&lt;int&gt; &gt;">2580854266</FullName>
+            <Functions>
+              <Function>
+                <Name str="vector&lt;int,std::allocator&lt;int&gt; &gt;">3491666232</Name>
+                <CallAddress>836064</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;int,std::allocator&lt;int&gt; &gt;">2580854266</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="_Right">2830497290</Name>
+                    <Type str="std::vector&lt;int,std::allocator&lt;int&gt; &gt;">2580854266</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="vector&lt;int,std::allocator&lt;int&gt; &gt;">3491666232</Name>
+                <CallAddress>804656</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;int,std::allocator&lt;int&gt; &gt;">2580854266</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="~vector&lt;int,std::allocator&lt;int&gt; &gt;">1095835272</Name>
+                <CallAddress>804848</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;int,std::allocator&lt;int&gt; &gt;">2580854266</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="operator=">908682916</Name>
+                <CallAddress>836480</CallAddress>
+                <ReturnParameter>
+                  <Type str="std::vector&lt;int,std::allocator&lt;int&gt; &gt;">2580854266</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Reference</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;int,std::allocator&lt;int&gt; &gt;">2580854266</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="_Right">2830497290</Name>
+                    <Type str="std::vector&lt;int,std::allocator&lt;int&gt; &gt;">2580854266</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+            </Functions>
+            <UniqueID>35</UniqueID>
+            <Size>20</Size>
+            <TypeOfVA>1507652</TypeOfVA>
+            <ConstructorIndex>1</ConstructorIndex>
+            <DestructorIndex>2</DestructorIndex>
+            <CopyConstructorIndex>0</CopyConstructorIndex>
+            <AssignmentOperatorIndex>3</AssignmentOperatorIndex>
+            <InstanceOf str="std::vector">1174096888</InstanceOf>
+            <Type0 str="int">2551841076</Type0>
+          </TemplateInstance>
+          <TemplateInstance>
+            <Name str="vector&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,std::allocator&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt; &gt; &gt;">2781867864</Name>
+            <FullName str="std::vector&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,std::allocator&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt; &gt; &gt;">282764915</FullName>
+            <Functions>
+              <Function>
+                <Name str="vector&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,std::allocator&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt; &gt; &gt;">2781867864</Name>
+                <CallAddress>837024</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,std::allocator&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt; &gt; &gt;">282764915</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="_Right">2830497290</Name>
+                    <Type str="std::vector&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,std::allocator&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt; &gt; &gt;">282764915</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="vector&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,std::allocator&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt; &gt; &gt;">2781867864</Name>
+                <CallAddress>805376</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,std::allocator&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt; &gt; &gt;">282764915</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="~vector&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,std::allocator&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt; &gt; &gt;">3726660948</Name>
+                <CallAddress>805568</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,std::allocator&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt; &gt; &gt;">282764915</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="operator=">908682916</Name>
+                <CallAddress>837440</CallAddress>
+                <ReturnParameter>
+                  <Type str="std::vector&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,std::allocator&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt; &gt; &gt;">282764915</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Reference</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,std::allocator&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt; &gt; &gt;">282764915</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="_Right">2830497290</Name>
+                    <Type str="std::vector&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,std::allocator&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt; &gt; &gt;">282764915</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+            </Functions>
+            <UniqueID>36</UniqueID>
+            <Size>20</Size>
+            <TypeOfVA>0</TypeOfVA>
+            <ConstructorIndex>1</ConstructorIndex>
+            <DestructorIndex>2</DestructorIndex>
+            <CopyConstructorIndex>0</CopyConstructorIndex>
+            <AssignmentOperatorIndex>3</AssignmentOperatorIndex>
+            <InstanceOf str="std::vector">1174096888</InstanceOf>
+            <Type0 str="std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;">4197426356</Type0>
+          </TemplateInstance>
+          <TemplateInstance>
+            <Name str="vector&lt;rfl::Parameter,std::allocator&lt;rfl::Parameter&gt; &gt;">430042867</Name>
+            <FullName str="std::vector&lt;rfl::Parameter,std::allocator&lt;rfl::Parameter&gt; &gt;">2530960184</FullName>
+            <Functions>
+              <Function>
+                <Name str="vector&lt;rfl::Parameter,std::allocator&lt;rfl::Parameter&gt; &gt;">430042867</Name>
+                <CallAddress>574960</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Parameter,std::allocator&lt;rfl::Parameter&gt; &gt;">2530960184</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="_Right">2830497290</Name>
+                    <Type str="std::vector&lt;rfl::Parameter,std::allocator&lt;rfl::Parameter&gt; &gt;">2530960184</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="vector&lt;rfl::Parameter,std::allocator&lt;rfl::Parameter&gt; &gt;">430042867</Name>
+                <CallAddress>553280</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Parameter,std::allocator&lt;rfl::Parameter&gt; &gt;">2530960184</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="~vector&lt;rfl::Parameter,std::allocator&lt;rfl::Parameter&gt; &gt;">3330697432</Name>
+                <CallAddress>564304</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Parameter,std::allocator&lt;rfl::Parameter&gt; &gt;">2530960184</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="operator=">908682916</Name>
+                <CallAddress>575376</CallAddress>
+                <ReturnParameter>
+                  <Type str="std::vector&lt;rfl::Parameter,std::allocator&lt;rfl::Parameter&gt; &gt;">2530960184</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Reference</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Parameter,std::allocator&lt;rfl::Parameter&gt; &gt;">2530960184</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="_Right">2830497290</Name>
+                    <Type str="std::vector&lt;rfl::Parameter,std::allocator&lt;rfl::Parameter&gt; &gt;">2530960184</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+            </Functions>
+            <UniqueID>38</UniqueID>
+            <Size>20</Size>
+            <TypeOfVA>0</TypeOfVA>
+            <ConstructorIndex>1</ConstructorIndex>
+            <DestructorIndex>2</DestructorIndex>
+            <CopyConstructorIndex>0</CopyConstructorIndex>
+            <AssignmentOperatorIndex>3</AssignmentOperatorIndex>
+            <InstanceOf str="std::vector">1174096888</InstanceOf>
+            <Type0 str="rfl::Parameter">446329422</Type0>
+          </TemplateInstance>
+          <TemplateInstance>
+            <Name str="vector&lt;rfl::Enum::Entry,std::allocator&lt;rfl::Enum::Entry&gt; &gt;">254208823</Name>
+            <FullName str="std::vector&lt;rfl::Enum::Entry,std::allocator&lt;rfl::Enum::Entry&gt; &gt;">1485146035</FullName>
+            <Functions>
+              <Function>
+                <Name str="vector&lt;rfl::Enum::Entry,std::allocator&lt;rfl::Enum::Entry&gt; &gt;">254208823</Name>
+                <CallAddress>573824</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Enum::Entry,std::allocator&lt;rfl::Enum::Entry&gt; &gt;">1485146035</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="_Right">2830497290</Name>
+                    <Type str="std::vector&lt;rfl::Enum::Entry,std::allocator&lt;rfl::Enum::Entry&gt; &gt;">1485146035</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="vector&lt;rfl::Enum::Entry,std::allocator&lt;rfl::Enum::Entry&gt; &gt;">254208823</Name>
+                <CallAddress>573632</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Enum::Entry,std::allocator&lt;rfl::Enum::Entry&gt; &gt;">1485146035</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="~vector&lt;rfl::Enum::Entry,std::allocator&lt;rfl::Enum::Entry&gt; &gt;">3785261210</Name>
+                <CallAddress>574240</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Enum::Entry,std::allocator&lt;rfl::Enum::Entry&gt; &gt;">1485146035</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="operator=">908682916</Name>
+                <CallAddress>574400</CallAddress>
+                <ReturnParameter>
+                  <Type str="std::vector&lt;rfl::Enum::Entry,std::allocator&lt;rfl::Enum::Entry&gt; &gt;">1485146035</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Reference</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Enum::Entry,std::allocator&lt;rfl::Enum::Entry&gt; &gt;">1485146035</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="_Right">2830497290</Name>
+                    <Type str="std::vector&lt;rfl::Enum::Entry,std::allocator&lt;rfl::Enum::Entry&gt; &gt;">1485146035</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+            </Functions>
+            <UniqueID>41</UniqueID>
+            <Size>20</Size>
+            <TypeOfVA>0</TypeOfVA>
+            <ConstructorIndex>1</ConstructorIndex>
+            <DestructorIndex>2</DestructorIndex>
+            <CopyConstructorIndex>0</CopyConstructorIndex>
+            <AssignmentOperatorIndex>3</AssignmentOperatorIndex>
+            <InstanceOf str="std::vector">1174096888</InstanceOf>
+            <Type0 str="rfl::Enum::Entry">2509853793</Type0>
+          </TemplateInstance>
+          <TemplateInstance>
+            <Name str="vector&lt;rfl::Field,std::allocator&lt;rfl::Field&gt; &gt;">4124304075</Name>
+            <FullName str="std::vector&lt;rfl::Field,std::allocator&lt;rfl::Field&gt; &gt;">1737827958</FullName>
+            <Functions>
+              <Function>
+                <Name str="vector&lt;rfl::Field,std::allocator&lt;rfl::Field&gt; &gt;">4124304075</Name>
+                <CallAddress>572656</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Field,std::allocator&lt;rfl::Field&gt; &gt;">1737827958</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="_Right">2830497290</Name>
+                    <Type str="std::vector&lt;rfl::Field,std::allocator&lt;rfl::Field&gt; &gt;">1737827958</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="vector&lt;rfl::Field,std::allocator&lt;rfl::Field&gt; &gt;">4124304075</Name>
+                <CallAddress>549360</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Field,std::allocator&lt;rfl::Field&gt; &gt;">1737827958</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="~vector&lt;rfl::Field,std::allocator&lt;rfl::Field&gt; &gt;">3083801513</Name>
+                <CallAddress>560608</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Field,std::allocator&lt;rfl::Field&gt; &gt;">1737827958</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="operator=">908682916</Name>
+                <CallAddress>573072</CallAddress>
+                <ReturnParameter>
+                  <Type str="std::vector&lt;rfl::Field,std::allocator&lt;rfl::Field&gt; &gt;">1737827958</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Reference</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Field,std::allocator&lt;rfl::Field&gt; &gt;">1737827958</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="_Right">2830497290</Name>
+                    <Type str="std::vector&lt;rfl::Field,std::allocator&lt;rfl::Field&gt; &gt;">1737827958</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+            </Functions>
+            <UniqueID>42</UniqueID>
+            <Size>20</Size>
+            <TypeOfVA>0</TypeOfVA>
+            <ConstructorIndex>1</ConstructorIndex>
+            <DestructorIndex>2</DestructorIndex>
+            <CopyConstructorIndex>0</CopyConstructorIndex>
+            <AssignmentOperatorIndex>3</AssignmentOperatorIndex>
+            <InstanceOf str="std::vector">1174096888</InstanceOf>
+            <Type0 str="rfl::Field">3935624477</Type0>
+          </TemplateInstance>
+          <TemplateInstance>
+            <Name str="vector&lt;rfl::Namespace,std::allocator&lt;rfl::Namespace&gt; &gt;">274593683</Name>
+            <FullName str="std::vector&lt;rfl::Namespace,std::allocator&lt;rfl::Namespace&gt; &gt;">3793507143</FullName>
+            <Functions>
+              <Function>
+                <Name str="vector&lt;rfl::Namespace,std::allocator&lt;rfl::Namespace&gt; &gt;">274593683</Name>
+                <CallAddress>565856</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Namespace,std::allocator&lt;rfl::Namespace&gt; &gt;">3793507143</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="_Right">2830497290</Name>
+                    <Type str="std::vector&lt;rfl::Namespace,std::allocator&lt;rfl::Namespace&gt; &gt;">3793507143</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="vector&lt;rfl::Namespace,std::allocator&lt;rfl::Namespace&gt; &gt;">274593683</Name>
+                <CallAddress>528992</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Namespace,std::allocator&lt;rfl::Namespace&gt; &gt;">3793507143</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="~vector&lt;rfl::Namespace,std::allocator&lt;rfl::Namespace&gt; &gt;">664020524</Name>
+                <CallAddress>529184</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Namespace,std::allocator&lt;rfl::Namespace&gt; &gt;">3793507143</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="operator=">908682916</Name>
+                <CallAddress>566272</CallAddress>
+                <ReturnParameter>
+                  <Type str="std::vector&lt;rfl::Namespace,std::allocator&lt;rfl::Namespace&gt; &gt;">3793507143</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Reference</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Namespace,std::allocator&lt;rfl::Namespace&gt; &gt;">3793507143</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="_Right">2830497290</Name>
+                    <Type str="std::vector&lt;rfl::Namespace,std::allocator&lt;rfl::Namespace&gt; &gt;">3793507143</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+            </Functions>
+            <UniqueID>43</UniqueID>
+            <Size>20</Size>
+            <TypeOfVA>0</TypeOfVA>
+            <ConstructorIndex>1</ConstructorIndex>
+            <DestructorIndex>2</DestructorIndex>
+            <CopyConstructorIndex>0</CopyConstructorIndex>
+            <AssignmentOperatorIndex>3</AssignmentOperatorIndex>
+            <InstanceOf str="std::vector">1174096888</InstanceOf>
+            <Type0 str="rfl::Namespace">3650987109</Type0>
+          </TemplateInstance>
+          <TemplateInstance>
+            <Name str="vector&lt;rfl::BaseType,std::allocator&lt;rfl::BaseType&gt; &gt;">913439464</Name>
+            <FullName str="std::vector&lt;rfl::BaseType,std::allocator&lt;rfl::BaseType&gt; &gt;">2710163203</FullName>
+            <Functions>
+              <Function>
+                <Name str="vector&lt;rfl::BaseType,std::allocator&lt;rfl::BaseType&gt; &gt;">913439464</Name>
+                <CallAddress>566832</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::BaseType,std::allocator&lt;rfl::BaseType&gt; &gt;">2710163203</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="_Right">2830497290</Name>
+                    <Type str="std::vector&lt;rfl::BaseType,std::allocator&lt;rfl::BaseType&gt; &gt;">2710163203</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="vector&lt;rfl::BaseType,std::allocator&lt;rfl::BaseType&gt; &gt;">913439464</Name>
+                <CallAddress>529344</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::BaseType,std::allocator&lt;rfl::BaseType&gt; &gt;">2710163203</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="~vector&lt;rfl::BaseType,std::allocator&lt;rfl::BaseType&gt; &gt;">1641630951</Name>
+                <CallAddress>529536</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::BaseType,std::allocator&lt;rfl::BaseType&gt; &gt;">2710163203</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="operator=">908682916</Name>
+                <CallAddress>567248</CallAddress>
+                <ReturnParameter>
+                  <Type str="std::vector&lt;rfl::BaseType,std::allocator&lt;rfl::BaseType&gt; &gt;">2710163203</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Reference</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::BaseType,std::allocator&lt;rfl::BaseType&gt; &gt;">2710163203</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="_Right">2830497290</Name>
+                    <Type str="std::vector&lt;rfl::BaseType,std::allocator&lt;rfl::BaseType&gt; &gt;">2710163203</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+            </Functions>
+            <UniqueID>44</UniqueID>
+            <Size>20</Size>
+            <TypeOfVA>0</TypeOfVA>
+            <ConstructorIndex>1</ConstructorIndex>
+            <DestructorIndex>2</DestructorIndex>
+            <CopyConstructorIndex>0</CopyConstructorIndex>
+            <AssignmentOperatorIndex>3</AssignmentOperatorIndex>
+            <InstanceOf str="std::vector">1174096888</InstanceOf>
+            <Type0 str="rfl::BaseType">1629383501</Type0>
+          </TemplateInstance>
+          <TemplateInstance>
+            <Name str="vector&lt;rfl::Class,std::allocator&lt;rfl::Class&gt; &gt;">1102058596</Name>
+            <FullName str="std::vector&lt;rfl::Class,std::allocator&lt;rfl::Class&gt; &gt;">3257442634</FullName>
+            <Functions>
+              <Function>
+                <Name str="vector&lt;rfl::Class,std::allocator&lt;rfl::Class&gt; &gt;">1102058596</Name>
+                <CallAddress>567792</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Class,std::allocator&lt;rfl::Class&gt; &gt;">3257442634</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="_Right">2830497290</Name>
+                    <Type str="std::vector&lt;rfl::Class,std::allocator&lt;rfl::Class&gt; &gt;">3257442634</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="vector&lt;rfl::Class,std::allocator&lt;rfl::Class&gt; &gt;">1102058596</Name>
+                <CallAddress>529696</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Class,std::allocator&lt;rfl::Class&gt; &gt;">3257442634</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="~vector&lt;rfl::Class,std::allocator&lt;rfl::Class&gt; &gt;">3587699932</Name>
+                <CallAddress>529888</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Class,std::allocator&lt;rfl::Class&gt; &gt;">3257442634</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="operator=">908682916</Name>
+                <CallAddress>568208</CallAddress>
+                <ReturnParameter>
+                  <Type str="std::vector&lt;rfl::Class,std::allocator&lt;rfl::Class&gt; &gt;">3257442634</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Reference</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Class,std::allocator&lt;rfl::Class&gt; &gt;">3257442634</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="_Right">2830497290</Name>
+                    <Type str="std::vector&lt;rfl::Class,std::allocator&lt;rfl::Class&gt; &gt;">3257442634</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+            </Functions>
+            <UniqueID>45</UniqueID>
+            <Size>20</Size>
+            <TypeOfVA>0</TypeOfVA>
+            <ConstructorIndex>1</ConstructorIndex>
+            <DestructorIndex>2</DestructorIndex>
+            <CopyConstructorIndex>0</CopyConstructorIndex>
+            <AssignmentOperatorIndex>3</AssignmentOperatorIndex>
+            <InstanceOf str="std::vector">1174096888</InstanceOf>
+            <Type0 str="rfl::Class">10196883</Type0>
+          </TemplateInstance>
+          <TemplateInstance>
+            <Name str="vector&lt;rfl::Template,std::allocator&lt;rfl::Template&gt; &gt;">166424111</Name>
+            <FullName str="std::vector&lt;rfl::Template,std::allocator&lt;rfl::Template&gt; &gt;">285806532</FullName>
+            <Functions>
+              <Function>
+                <Name str="vector&lt;rfl::Template,std::allocator&lt;rfl::Template&gt; &gt;">166424111</Name>
+                <CallAddress>568768</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Template,std::allocator&lt;rfl::Template&gt; &gt;">285806532</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="_Right">2830497290</Name>
+                    <Type str="std::vector&lt;rfl::Template,std::allocator&lt;rfl::Template&gt; &gt;">285806532</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="vector&lt;rfl::Template,std::allocator&lt;rfl::Template&gt; &gt;">166424111</Name>
+                <CallAddress>530048</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Template,std::allocator&lt;rfl::Template&gt; &gt;">285806532</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="~vector&lt;rfl::Template,std::allocator&lt;rfl::Template&gt; &gt;">2653747291</Name>
+                <CallAddress>530240</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Template,std::allocator&lt;rfl::Template&gt; &gt;">285806532</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="operator=">908682916</Name>
+                <CallAddress>569184</CallAddress>
+                <ReturnParameter>
+                  <Type str="std::vector&lt;rfl::Template,std::allocator&lt;rfl::Template&gt; &gt;">285806532</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Reference</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Template,std::allocator&lt;rfl::Template&gt; &gt;">285806532</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="_Right">2830497290</Name>
+                    <Type str="std::vector&lt;rfl::Template,std::allocator&lt;rfl::Template&gt; &gt;">285806532</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+            </Functions>
+            <UniqueID>46</UniqueID>
+            <Size>20</Size>
+            <TypeOfVA>0</TypeOfVA>
+            <ConstructorIndex>1</ConstructorIndex>
+            <DestructorIndex>2</DestructorIndex>
+            <CopyConstructorIndex>0</CopyConstructorIndex>
+            <AssignmentOperatorIndex>3</AssignmentOperatorIndex>
+            <InstanceOf str="std::vector">1174096888</InstanceOf>
+            <Type0 str="rfl::Template">2087184469</Type0>
+          </TemplateInstance>
+          <TemplateInstance>
+            <Name str="vector&lt;rfl::TemplateInstance,std::allocator&lt;rfl::TemplateInstance&gt; &gt;">1033525868</Name>
+            <FullName str="std::vector&lt;rfl::TemplateInstance,std::allocator&lt;rfl::TemplateInstance&gt; &gt;">1031358589</FullName>
+            <Functions>
+              <Function>
+                <Name str="vector&lt;rfl::TemplateInstance,std::allocator&lt;rfl::TemplateInstance&gt; &gt;">1033525868</Name>
+                <CallAddress>569728</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::TemplateInstance,std::allocator&lt;rfl::TemplateInstance&gt; &gt;">1031358589</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="_Right">2830497290</Name>
+                    <Type str="std::vector&lt;rfl::TemplateInstance,std::allocator&lt;rfl::TemplateInstance&gt; &gt;">1031358589</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="vector&lt;rfl::TemplateInstance,std::allocator&lt;rfl::TemplateInstance&gt; &gt;">1033525868</Name>
+                <CallAddress>530400</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::TemplateInstance,std::allocator&lt;rfl::TemplateInstance&gt; &gt;">1031358589</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="~vector&lt;rfl::TemplateInstance,std::allocator&lt;rfl::TemplateInstance&gt; &gt;">1768890796</Name>
+                <CallAddress>530592</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::TemplateInstance,std::allocator&lt;rfl::TemplateInstance&gt; &gt;">1031358589</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="operator=">908682916</Name>
+                <CallAddress>570144</CallAddress>
+                <ReturnParameter>
+                  <Type str="std::vector&lt;rfl::TemplateInstance,std::allocator&lt;rfl::TemplateInstance&gt; &gt;">1031358589</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Reference</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::TemplateInstance,std::allocator&lt;rfl::TemplateInstance&gt; &gt;">1031358589</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="_Right">2830497290</Name>
+                    <Type str="std::vector&lt;rfl::TemplateInstance,std::allocator&lt;rfl::TemplateInstance&gt; &gt;">1031358589</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+            </Functions>
+            <UniqueID>47</UniqueID>
+            <Size>20</Size>
+            <TypeOfVA>0</TypeOfVA>
+            <ConstructorIndex>1</ConstructorIndex>
+            <DestructorIndex>2</DestructorIndex>
+            <CopyConstructorIndex>0</CopyConstructorIndex>
+            <AssignmentOperatorIndex>3</AssignmentOperatorIndex>
+            <InstanceOf str="std::vector">1174096888</InstanceOf>
+            <Type0 str="rfl::TemplateInstance">18825425</Type0>
+          </TemplateInstance>
+          <TemplateInstance>
+            <Name str="vector&lt;rfl::Enum,std::allocator&lt;rfl::Enum&gt; &gt;">2143206054</Name>
+            <FullName str="std::vector&lt;rfl::Enum,std::allocator&lt;rfl::Enum&gt; &gt;">253731865</FullName>
+            <Functions>
+              <Function>
+                <Name str="vector&lt;rfl::Enum,std::allocator&lt;rfl::Enum&gt; &gt;">2143206054</Name>
+                <CallAddress>570704</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Enum,std::allocator&lt;rfl::Enum&gt; &gt;">253731865</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="_Right">2830497290</Name>
+                    <Type str="std::vector&lt;rfl::Enum,std::allocator&lt;rfl::Enum&gt; &gt;">253731865</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="vector&lt;rfl::Enum,std::allocator&lt;rfl::Enum&gt; &gt;">2143206054</Name>
+                <CallAddress>530752</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Enum,std::allocator&lt;rfl::Enum&gt; &gt;">253731865</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="~vector&lt;rfl::Enum,std::allocator&lt;rfl::Enum&gt; &gt;">1023038805</Name>
+                <CallAddress>530944</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Enum,std::allocator&lt;rfl::Enum&gt; &gt;">253731865</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="operator=">908682916</Name>
+                <CallAddress>571120</CallAddress>
+                <ReturnParameter>
+                  <Type str="std::vector&lt;rfl::Enum,std::allocator&lt;rfl::Enum&gt; &gt;">253731865</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Reference</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Enum,std::allocator&lt;rfl::Enum&gt; &gt;">253731865</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="_Right">2830497290</Name>
+                    <Type str="std::vector&lt;rfl::Enum,std::allocator&lt;rfl::Enum&gt; &gt;">253731865</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+            </Functions>
+            <UniqueID>48</UniqueID>
+            <Size>20</Size>
+            <TypeOfVA>0</TypeOfVA>
+            <ConstructorIndex>1</ConstructorIndex>
+            <DestructorIndex>2</DestructorIndex>
+            <CopyConstructorIndex>0</CopyConstructorIndex>
+            <AssignmentOperatorIndex>3</AssignmentOperatorIndex>
+            <InstanceOf str="std::vector">1174096888</InstanceOf>
+            <Type0 str="rfl::Enum">2806318872</Type0>
+          </TemplateInstance>
+          <TemplateInstance>
+            <Name str="vector&lt;rfl::Function,std::allocator&lt;rfl::Function&gt; &gt;">298314185</Name>
+            <FullName str="std::vector&lt;rfl::Function,std::allocator&lt;rfl::Function&gt; &gt;">2223908658</FullName>
+            <Functions>
+              <Function>
+                <Name str="vector&lt;rfl::Function,std::allocator&lt;rfl::Function&gt; &gt;">298314185</Name>
+                <CallAddress>571680</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Function,std::allocator&lt;rfl::Function&gt; &gt;">2223908658</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="_Right">2830497290</Name>
+                    <Type str="std::vector&lt;rfl::Function,std::allocator&lt;rfl::Function&gt; &gt;">2223908658</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="vector&lt;rfl::Function,std::allocator&lt;rfl::Function&gt; &gt;">298314185</Name>
+                <CallAddress>531104</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Function,std::allocator&lt;rfl::Function&gt; &gt;">2223908658</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="~vector&lt;rfl::Function,std::allocator&lt;rfl::Function&gt; &gt;">1603218508</Name>
+                <CallAddress>531296</CallAddress>
+                <ReturnParameter>
+                  <Type str="void">1256909095</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Value</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Function,std::allocator&lt;rfl::Function&gt; &gt;">2223908658</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+              <Function>
+                <Name str="operator=">908682916</Name>
+                <CallAddress>572096</CallAddress>
+                <ReturnParameter>
+                  <Type str="std::vector&lt;rfl::Function,std::allocator&lt;rfl::Function&gt; &gt;">2223908658</Type>
+                  <IsConst>False</IsConst>
+                  <Modifier>Reference</Modifier>
+                </ReturnParameter>
+                <Parameters>
+                  <Parameter>
+                    <Name str="this">323649500</Name>
+                    <Type str="std::vector&lt;rfl::Function,std::allocator&lt;rfl::Function&gt; &gt;">2223908658</Type>
+                    <IsConst>False</IsConst>
+                    <Modifier>Pointer</Modifier>
+                  </Parameter>
+                  <Parameter>
+                    <Name str="_Right">2830497290</Name>
+                    <Type str="std::vector&lt;rfl::Function,std::allocator&lt;rfl::Function&gt; &gt;">2223908658</Type>
+                    <IsConst>True</IsConst>
+                    <Modifier>Reference</Modifier>
+                  </Parameter>
+                </Parameters>
+              </Function>
+            </Functions>
+            <UniqueID>49</UniqueID>
+            <Size>20</Size>
+            <TypeOfVA>0</TypeOfVA>
+            <ConstructorIndex>1</ConstructorIndex>
+            <DestructorIndex>2</DestructorIndex>
+            <CopyConstructorIndex>0</CopyConstructorIndex>
+            <AssignmentOperatorIndex>3</AssignmentOperatorIndex>
+            <InstanceOf str="std::vector">1174096888</InstanceOf>
+            <Type0 str="rfl::Function">2510805542</Type0>
+          </TemplateInstance>
+        </TemplateInstances>
+      </Namespace>
+    </Namespaces>
+    <BaseTypes>
+      <BaseType>
+        <Name str="double">1935252672</Name>
+        <FullName str="double">1935252672</FullName>
+        <UniqueID>13</UniqueID>
+        <Size>8</Size>
+        <TypeOfVA>0</TypeOfVA>
+      </BaseType>
+      <BaseType>
+        <Name str="float">3149513605</Name>
+        <FullName str="float">3149513605</FullName>
+        <UniqueID>14</UniqueID>
+        <Size>4</Size>
+        <TypeOfVA>0</TypeOfVA>
+      </BaseType>
+      <BaseType>
+        <Name str="unsigned __int64">2126274140</Name>
+        <FullName str="unsigned __int64">2126274140</FullName>
+        <UniqueID>15</UniqueID>
+        <Size>8</Size>
+        <TypeOfVA>0</TypeOfVA>
+      </BaseType>
+      <BaseType>
+        <Name str="unsigned long">4174769112</Name>
+        <FullName str="unsigned long">4174769112</FullName>
+        <UniqueID>16</UniqueID>
+        <Size>4</Size>
+        <TypeOfVA>0</TypeOfVA>
+      </BaseType>
+      <BaseType>
+        <Name str="unsigned int">1323032009</Name>
+        <FullName str="unsigned int">1323032009</FullName>
+        <UniqueID>17</UniqueID>
+        <Size>4</Size>
+        <TypeOfVA>0</TypeOfVA>
+      </BaseType>
+      <BaseType>
+        <Name str="unsigned short">951755896</Name>
+        <FullName str="unsigned short">951755896</FullName>
+        <UniqueID>18</UniqueID>
+        <Size>2</Size>
+        <TypeOfVA>0</TypeOfVA>
+      </BaseType>
+      <BaseType>
+        <Name str="unsigned char">372582283</Name>
+        <FullName str="unsigned char">372582283</FullName>
+        <UniqueID>19</UniqueID>
+        <Size>1</Size>
+        <TypeOfVA>0</TypeOfVA>
+      </BaseType>
+      <BaseType>
+        <Name str="__int64">4096747725</Name>
+        <FullName str="__int64">4096747725</FullName>
+        <UniqueID>20</UniqueID>
+        <Size>8</Size>
+        <TypeOfVA>0</TypeOfVA>
+      </BaseType>
+      <BaseType>
+        <Name str="long">4074252626</Name>
+        <FullName str="long">4074252626</FullName>
+        <UniqueID>21</UniqueID>
+        <Size>4</Size>
+        <TypeOfVA>0</TypeOfVA>
+      </BaseType>
+      <BaseType>
+        <Name str="int">2551841076</Name>
+        <FullName str="int">2551841076</FullName>
+        <UniqueID>22</UniqueID>
+        <Size>4</Size>
+        <TypeOfVA>0</TypeOfVA>
+      </BaseType>
+      <BaseType>
+        <Name str="short">251361738</Name>
+        <FullName str="short">251361738</FullName>
+        <UniqueID>23</UniqueID>
+        <Size>2</Size>
+        <TypeOfVA>0</TypeOfVA>
+      </BaseType>
+      <BaseType>
+        <Name str="char">1718992050</Name>
+        <FullName str="char">1718992050</FullName>
+        <UniqueID>24</UniqueID>
+        <Size>1</Size>
+        <TypeOfVA>0</TypeOfVA>
+      </BaseType>
+      <BaseType>
+        <Name str="bool">1281642793</Name>
+        <FullName str="bool">1281642793</FullName>
+        <UniqueID>25</UniqueID>
+        <Size>1</Size>
+        <TypeOfVA>0</TypeOfVA>
+      </BaseType>
+      <BaseType>
+        <Name str="void">1256909095</Name>
+        <FullName str="void">1256909095</FullName>
+        <UniqueID>26</UniqueID>
+        <Size>0</Size>
+        <TypeOfVA>0</TypeOfVA>
+      </BaseType>
+    </BaseTypes>
+    <Classes>
+      <Class>
+        <Name str="Name">4004688948</Name>
+        <FullName str="Name">4004688948</FullName>
+        <Functions>
+          <Function>
+            <Name str="Name">4004688948</Name>
+            <CallAddress>557904</CallAddress>
+            <ReturnParameter>
+              <Type str="void">1256909095</Type>
+              <IsConst>False</IsConst>
+              <Modifier>Value</Modifier>
+            </ReturnParameter>
+            <Parameters>
+              <Parameter>
+                <Name str="this">323649500</Name>
+                <Type str="Name">4004688948</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Pointer</Modifier>
+              </Parameter>
+              <Parameter>
+                <Name str="__that">558921669</Name>
+                <Type str="Name">4004688948</Type>
+                <IsConst>True</IsConst>
+                <Modifier>Reference</Modifier>
+              </Parameter>
+            </Parameters>
+          </Function>
+          <Function>
+            <Name str="Name">4004688948</Name>
+            <CallAddress>781088</CallAddress>
+            <ReturnParameter>
+              <Type str="void">1256909095</Type>
+              <IsConst>False</IsConst>
+              <Modifier>Value</Modifier>
+            </ReturnParameter>
+            <Parameters>
+              <Parameter>
+                <Name str="this">323649500</Name>
+                <Type str="Name">4004688948</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Pointer</Modifier>
+              </Parameter>
+              <Parameter>
+                <Name str="name">1372885882</Name>
+                <Type str="char">1718992050</Type>
+                <IsConst>True</IsConst>
+                <Modifier>Pointer</Modifier>
+              </Parameter>
+            </Parameters>
+          </Function>
+          <Function>
+            <Name str="Name">4004688948</Name>
+            <CallAddress>525936</CallAddress>
+            <ReturnParameter>
+              <Type str="void">1256909095</Type>
+              <IsConst>False</IsConst>
+              <Modifier>Value</Modifier>
+            </ReturnParameter>
+            <Parameters>
+              <Parameter>
+                <Name str="this">323649500</Name>
+                <Type str="Name">4004688948</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Pointer</Modifier>
+              </Parameter>
+            </Parameters>
+          </Function>
+          <Function>
+            <Name str="~Name">1184195065</Name>
+            <CallAddress>526032</CallAddress>
+            <ReturnParameter>
+              <Type str="void">1256909095</Type>
+              <IsConst>False</IsConst>
+              <Modifier>Value</Modifier>
+            </ReturnParameter>
+            <Parameters>
+              <Parameter>
+                <Name str="this">323649500</Name>
+                <Type str="Name">4004688948</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Pointer</Modifier>
+              </Parameter>
+            </Parameters>
+          </Function>
+          <Function>
+            <Name str="operator=">908682916</Name>
+            <CallAddress>558016</CallAddress>
+            <ReturnParameter>
+              <Type str="Name">4004688948</Type>
+              <IsConst>False</IsConst>
+              <Modifier>Reference</Modifier>
+            </ReturnParameter>
+            <Parameters>
+              <Parameter>
+                <Name str="this">323649500</Name>
+                <Type str="Name">4004688948</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Pointer</Modifier>
+              </Parameter>
+              <Parameter>
+                <Name str="__that">558921669</Name>
+                <Type str="Name">4004688948</Type>
+                <IsConst>True</IsConst>
+                <Modifier>Reference</Modifier>
+              </Parameter>
+            </Parameters>
+          </Function>
+        </Functions>
+        <UniqueID>12</UniqueID>
+        <Size>36</Size>
+        <TypeOfVA>0</TypeOfVA>
+        <ConstructorIndex>2</ConstructorIndex>
+        <DestructorIndex>3</DestructorIndex>
+        <CopyConstructorIndex>0</CopyConstructorIndex>
+        <AssignmentOperatorIndex>4</AssignmentOperatorIndex>
+        <IsPOD>False</IsPOD>
+        <Fields>
+          <Field>
+            <Name str="string">3289781703</Name>
+            <Type str="std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;">4197426356</Type>
+            <IsConst>False</IsConst>
+            <Modifier>Value</Modifier>
+            <Offset>0</Offset>
+          </Field>
+          <Field>
+            <Name str="hash_id">3717506645</Name>
+            <Type str="unsigned int">1323032009</Type>
+            <IsConst>False</IsConst>
+            <Modifier>Value</Modifier>
+            <Offset>32</Offset>
+          </Field>
+        </Fields>
+      </Class>
+      <Class>
+        <Name str="Vec2Di">3663034420</Name>
+        <FullName str="Vec2Di">3663034420</FullName>
+        <UniqueID>30</UniqueID>
+        <Size>8</Size>
+        <TypeOfVA>0</TypeOfVA>
+        <IsPOD>True</IsPOD>
+        <Fields>
+          <Field>
+            <Name str="x">334367386</Name>
+            <Type str="int">2551841076</Type>
+            <IsConst>False</IsConst>
+            <Modifier>Value</Modifier>
+            <Offset>0</Offset>
+          </Field>
+          <Field>
+            <Name str="y">3790009582</Name>
+            <Type str="int">2551841076</Type>
+            <IsConst>False</IsConst>
+            <Modifier>Value</Modifier>
+            <Offset>4</Offset>
+          </Field>
+        </Fields>
+      </Class>
+      <Class>
+        <Name str="Configuration">1994060903</Name>
+        <FullName str="Configuration">1994060903</FullName>
+        <Functions>
+          <Function>
+            <Name str="Configuration">1994060903</Name>
+            <CallAddress>835184</CallAddress>
+            <ReturnParameter>
+              <Type str="void">1256909095</Type>
+              <IsConst>False</IsConst>
+              <Modifier>Value</Modifier>
+            </ReturnParameter>
+            <Parameters>
+              <Parameter>
+                <Name str="this">323649500</Name>
+                <Type str="Configuration">1994060903</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Pointer</Modifier>
+              </Parameter>
+              <Parameter>
+                <Name str="__that">558921669</Name>
+                <Type str="Configuration">1994060903</Type>
+                <IsConst>True</IsConst>
+                <Modifier>Reference</Modifier>
+              </Parameter>
+            </Parameters>
+          </Function>
+          <Function>
+            <Name str="Configuration">1994060903</Name>
+            <CallAddress>803296</CallAddress>
+            <ReturnParameter>
+              <Type str="void">1256909095</Type>
+              <IsConst>False</IsConst>
+              <Modifier>Value</Modifier>
+            </ReturnParameter>
+            <Parameters>
+              <Parameter>
+                <Name str="this">323649500</Name>
+                <Type str="Configuration">1994060903</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Pointer</Modifier>
+              </Parameter>
+            </Parameters>
+          </Function>
+          <Function>
+            <Name str="~Configuration">3183262899</Name>
+            <CallAddress>803552</CallAddress>
+            <ReturnParameter>
+              <Type str="void">1256909095</Type>
+              <IsConst>False</IsConst>
+              <Modifier>Value</Modifier>
+            </ReturnParameter>
+            <Parameters>
+              <Parameter>
+                <Name str="this">323649500</Name>
+                <Type str="Configuration">1994060903</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Pointer</Modifier>
+              </Parameter>
+            </Parameters>
+          </Function>
+          <Function>
+            <Name str="operator=">908682916</Name>
+            <CallAddress>835584</CallAddress>
+            <ReturnParameter>
+              <Type str="Configuration">1994060903</Type>
+              <IsConst>False</IsConst>
+              <Modifier>Reference</Modifier>
+            </ReturnParameter>
+            <Parameters>
+              <Parameter>
+                <Name str="this">323649500</Name>
+                <Type str="Configuration">1994060903</Type>
+                <IsConst>False</IsConst>
+                <Modifier>Pointer</Modifier>
+              </Parameter>
+              <Parameter>
+                <Name str="__that">558921669</Name>
+                <Type str="Configuration">1994060903</Type>
+                <IsConst>True</IsConst>
+                <Modifier>Reference</Modifier>
+              </Parameter>
+            </Parameters>
+          </Function>
+        </Functions>
+        <UniqueID>31</UniqueID>
+        <Size>196</Size>
+        <TypeOfVA>1507656</TypeOfVA>
+        <ConstructorIndex>1</ConstructorIndex>
+        <DestructorIndex>2</DestructorIndex>
+        <CopyConstructorIndex>0</CopyConstructorIndex>
+        <AssignmentOperatorIndex>3</AssignmentOperatorIndex>
+        <IsPOD>False</IsPOD>
+        <Fields>
+          <Field>
+            <Name str="window_name">4114716262</Name>
+            <Type str="std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;">4197426356</Type>
+            <IsConst>False</IsConst>
+            <Modifier>Value</Modifier>
+            <Offset>0</Offset>
+            <Attributes>
+              <Attribute>
+                <ValueType>String</ValueType>
+                <Name str="group">4283856292</Name>
+                <Value>Base Group</Value>
+              </Attribute>
+            </Attributes>
+          </Field>
+          <Field>
+            <Name str="resolution">1444315256</Name>
+            <Type str="Vec2Di">3663034420</Type>
+            <IsConst>False</IsConst>
+            <Modifier>Value</Modifier>
+            <Offset>32</Offset>
+            <Attributes>
+              <Attribute>
+                <ValueType>String</ValueType>
+                <Name str="group">4283856292</Name>
+                <Value>Base Group</Value>
+              </Attribute>
+              <Attribute>
+                <ValueType>Boolean</ValueType>
+                <Name str="transient">1781830787</Name>
+              </Attribute>
+              <Attribute>
+                <ValueType>String</ValueType>
+                <Name str="name">1372885882</Name>
+                <Value>Resolution</Value>
+              </Attribute>
+              <Attribute>
+                <ValueType>String</ValueType>
+                <Name str="desc">1212300479</Name>
+                <Value>Specifies the resolution of the thingy</Value>
+              </Attribute>
+              <Attribute>
+                <ValueType>Integer</ValueType>
+                <Name str="value">2643112497</Name>
+                <Value>3</Value>
+              </Attribute>
+            </Attributes>
+          </Field>
+          <Field>
+            <Name str="offset">1931034390</Name>
+            <Type str="Vec2Di">3663034420</Type>
+            <IsConst>False</IsConst>
+            <Modifier>Value</Modifier>
+            <Offset>40</Offset>
+            <Attributes>
+              <Attribute>
+                <ValueType>String</ValueType>
+                <Name str="group">4283856292</Name>
+                <Value>Base Group</Value>
+              </Attribute>
+            </Attributes>
+          </Field>
+          <Field>
+            <Name str="tolerance">4088582714</Name>
+            <Type str="float">3149513605</Type>
+            <IsConst>False</IsConst>
+            <Modifier>Value</Modifier>
+            <Offset>48</Offset>
+            <Attributes>
+              <Attribute>
+                <ValueType>String</ValueType>
+                <Name str="group">4283856292</Name>
+                <Value>Base Group</Value>
+              </Attribute>
+              <Attribute>
+                <ValueType>Float</ValueType>
+                <Name str="max">2736198164</Name>
+                <Value>0.4</Value>
+              </Attribute>
+              <Attribute>
+                <ValueType>Float</ValueType>
+                <Name str="min">555777706</Name>
+                <Value>0.2</Value>
+              </Attribute>
+            </Attributes>
+          </Field>
+          <Field>
+            <Name str="high_scores">2914890894</Name>
+            <Type str="std::vector&lt;int,std::allocator&lt;int&gt; &gt;">2580854266</Type>
+            <IsConst>False</IsConst>
+            <Modifier>Value</Modifier>
+            <Offset>52</Offset>
+            <Attributes>
+              <Attribute>
+                <ValueType>String</ValueType>
+                <Name str="group">4283856292</Name>
+                <Value>Base Group</Value>
+              </Attribute>
+            </Attributes>
+          </Field>
+          <Field>
+            <Name str="low_scores">2237174468</Name>
+            <Type str="std::vector&lt;int,std::allocator&lt;int&gt; &gt;">2580854266</Type>
+            <IsConst>False</IsConst>
+            <Modifier>Value</Modifier>
+            <Offset>72</Offset>
+            <Attributes>
+              <Attribute>
+                <ValueType>String</ValueType>
+                <Name str="group">4283856292</Name>
+                <Value>Base Group</Value>
+              </Attribute>
+            </Attributes>
+          </Field>
+          <Field>
+            <Name str="names">3441769441</Name>
+            <Type str="std::vector&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;,std::allocator&lt;std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt; &gt; &gt;">282764915</Type>
+            <IsConst>False</IsConst>
+            <Modifier>Value</Modifier>
+            <Offset>92</Offset>
+            <Attributes>
+              <Attribute>
+                <ValueType>String</ValueType>
+                <Name str="group">4283856292</Name>
+                <Value>Base Group</Value>
+              </Attribute>
+            </Attributes>
+          </Field>
+          <Field>
+            <Name str="fixed_array">3918692696</Name>
+            <Type str="int">2551841076</Type>
+            <IsConst>False</IsConst>
+            <Modifier>Value</Modifier>
+            <ArrayRank>1</ArrayRank>
+            <ArrayLength0>5</ArrayLength0>
+            <Offset>112</Offset>
+            <Attributes>
+              <Attribute>
+                <ValueType>String</ValueType>
+                <Name str="group">4283856292</Name>
+                <Value>Base Group</Value>
+              </Attribute>
+            </Attributes>
+          </Field>
+          <Field>
+            <Name str="looking_place">3459578867</Name>
+            <Type str="std::basic_string&lt;char,std::char_traits&lt;char&gt;,std::allocator&lt;char&gt; &gt;">4197426356</Type>
+            <IsConst>False</IsConst>
+            <Modifier>Value</Modifier>
+            <ArrayRank>1</ArrayRank>
+            <ArrayLength0>2</ArrayLength0>
+            <Offset>132</Offset>
+            <Attributes>
+              <Attribute>
+                <ValueType>String</ValueType>
+                <Name str="group">4283856292</Name>
+                <Value>Base Group</Value>
+              </Attribute>
+            </Attributes>
+          </Field>
+        </Fields>
+      </Class>
+      <Class>
+        <Name str="PODTest">2829383276</Name>
+        <FullName str="PODTest">2829383276</FullName>
+        <Classes>
+          <Class>
+            <Name str="NestedClassTest">2444857016</Name>
+            <FullName str="PODTest::NestedClassTest">1717934819</FullName>
+            <UniqueID>37</UniqueID>
+            <Size>1</Size>
+            <TypeOfVA>0</TypeOfVA>
+            <IsPOD>True</IsPOD>
+          </Class>
+        </Classes>
+        <Functions>
+          <Function>
+            <Name str="Func">2396987676</Name>
+            <CallAddress>803200</CallAddress>
+            <ReturnParameter>
+              <Type str="void">1256909095</Type>
+              <IsConst>False</IsConst>
+              <Modifier>Pointer</Modifier>
+            </ReturnParameter>
+            <Parameters>
+              <Parameter>
+                <Name str="this">323649500</Name>
+                <Type str="PODTest">2829383276</Type>
+                <IsConst>True</IsConst>
+                <Modifier>Pointer</Modifier>
+              </Parameter>
+            </Parameters>
+          </Function>
+        </Functions>
+        <UniqueID>33</UniqueID>
+        <Size>12</Size>
+        <TypeOfVA>0</TypeOfVA>
+        <IsPOD>True</IsPOD>
+        <Fields>
+          <Field>
+            <Name str="x">334367386</Name>
+            <Type str="int">2551841076</Type>
+            <IsConst>False</IsConst>
+            <Modifier>Value</Modifier>
+            <Offset>0</Offset>
+          </Field>
+          <Field>
+            <Name str="u">3390778114</Name>
+            <Type str="char">1718992050</Type>
+            <IsConst>True</IsConst>
+            <Modifier>Pointer</Modifier>
+            <Offset>4</Offset>
+          </Field>
+          <Field>
+            <Name str="b">3303518884</Name>
+            <Type str="char">1718992050</Type>
+            <IsConst>False</IsConst>
+            <Modifier>Value</Modifier>
+            <ArrayRank>1</ArrayRank>
+            <ArrayLength0>3</ArrayLength0>
+            <Offset>8</Offset>
+          </Field>
+        </Fields>
+      </Class>
+      <Class>
+        <Name str="ArrayReflection">3495047733</Name>
+        <FullName str="ArrayReflection">3495047733</FullName>
+        <UniqueID>34</UniqueID>
+        <Size>76</Size>
+        <TypeOfVA>0</TypeOfVA>
+        <IsPOD>True</IsPOD>
+        <Fields>
+          <Field>
+            <Name str="a">3367174915</Name>
+            <Type str="int">2551841076</Type>
+            <IsConst>False</IsConst>
+            <Modifier>Pointer</Modifier>
+            <ArrayRank>1</ArrayRank>
+            <ArrayLength0>3</ArrayLength0>
+            <Offset>0</Offset>
+          </Field>
+          <Field>
+            <Name str="b">3303518884</Name>
+            <Type str="int">2551841076</Type>
+            <IsConst>False</IsConst>
+            <Modifier>Pointer</Modifier>
+            <ArrayRank>1</ArrayRank>
+            <ArrayLength0>3</ArrayLength0>
+            <Offset>12</Offset>
+          </Field>
+          <Field>
+            <Name str="d">2435393490</Name>
+            <Type str="int">2551841076</Type>
+            <IsConst>False</IsConst>
+            <Modifier>Value</Modifier>
+            <ArrayRank>2</ArrayRank>
+            <ArrayLength0>3</ArrayLength0>
+            <ArrayLength1>4</ArrayLength1>
+            <Offset>28</Offset>
+          </Field>
+        </Fields>
+      </Class>
+    </Classes>
+    <Enums>
+      <Enum>
+        <Name str="GlobalEnum">2393314983</Name>
+        <FullName str="GlobalEnum">2393314983</FullName>
+        <UniqueID>32</UniqueID>
+        <Size>4</Size>
+        <TypeOfVA>0</TypeOfVA>
+        <Entries>
+          <Entry>
+            <Name str="BLAH">780238734</Name>
+            <Value>3</Value>
+          </Entry>
+          <Entry>
+            <Name str="FOREVER">290335756</Name>
+            <Value>4</Value>
+          </Entry>
+          <Entry>
+            <Name str="WHAT">708508406</Name>
+            <Value>-1</Value>
+          </Entry>
+        </Entries>
+      </Enum>
+    </Enums>
+  </Namespace>
+</RflDb>

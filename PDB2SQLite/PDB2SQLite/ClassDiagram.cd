@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Rfl.Module">
+    <Position X="15" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEgAAAAAEAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Rfl\Module.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rfl.Attribute" Collapsed="true">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAgAAAAEAA=</HashCode>
+      <FileName>Rfl\Attribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rfl.BaseType" Collapsed="true">
+    <Position X="3.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rfl\BaseType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rfl.XmlTypeNameSerialiser" Collapsed="true">
+    <Position X="16.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Rfl\Type.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rfl.Type" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAgAAAAAYAAgAAAQAQAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Rfl\Type.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rfl.Class" Collapsed="true">
+    <Position X="1.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Rfl\Class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rfl.Enum" Collapsed="true">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAACAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rfl\Enum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rfl.Field" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Rfl\Field.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rfl.Function" Collapsed="true">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQQAAAAAAIAAMAAAAAAAAA=</HashCode>
+      <FileName>Rfl\Function.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rfl.Namespace" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rfl\Namespace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rfl.Parameter" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACBBAAAAAAAAAAAAAAAAQAAAAQAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Rfl\Parameter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rfl.Scope" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAEEAAIBAAAAAAAYAAgAABAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Rfl\Scope.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rfl.Template" Collapsed="true">
+    <Position X="8" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Rfl\Template.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rfl.TemplateInstance" Collapsed="true">
+    <Position X="10.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQE=</HashCode>
+      <FileName>Rfl\Template.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Rfl.TypeModifier" Collapsed="true">
+    <Position X="16.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Rfl\Parameter.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

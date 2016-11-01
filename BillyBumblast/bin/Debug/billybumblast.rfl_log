@@ -1,0 +1,263 @@
+[21:38:36] Log Started
+[21:39:00] Reflect Request Class - {rfl::Module}
+[21:39:07] Reflect Request Class - {rfl::Function}
+[21:39:07] Reflect Request Class - {rfl::Field}
+[21:39:07] Reflect Request Class - {rfl::Parameter}
+[21:39:07] Reflect Request Class - {rfl::Enum}
+[21:39:07] Reflect Request Class - {rfl::TemplateInstance}
+[21:39:07] Reflect Request Class - {rfl::Template}
+[21:39:07] Reflect Request Class - {rfl::Class}
+[21:39:07] Reflect Request Class - {rfl::BaseType}
+[21:39:07] Reflect Request Class - {rfl::Type}
+[21:39:07] Reflect Request Class - {rfl::Namespace}
+[21:39:07] Reflect Request Class - {rfl::Scope}
+[21:39:07] Reflect Request Class - {Name}
+[21:39:07] Reflect Request BaseType - {double}
+[21:39:07] Reflect Request BaseType - {float}
+[21:39:07] Reflect Request BaseType - {unsigned __int64}
+[21:39:07] Reflect Request BaseType - {unsigned long}
+[21:39:07] Reflect Request BaseType - {unsigned int}
+[21:39:07] Reflect Request BaseType - {unsigned short}
+[21:39:07] Reflect Request BaseType - {unsigned char}
+[21:39:07] Reflect Request BaseType - {__int64}
+[21:39:07] Reflect Request BaseType - {long}
+[21:39:07] Reflect Request BaseType - {int}
+[21:39:07] Reflect Request BaseType - {short}
+[21:39:07] Reflect Request BaseType - {char}
+[21:39:07] Reflect Request BaseType - {bool}
+[21:39:07] Reflect Request BaseType - {void}
+[21:39:07] Reflect Request Template - {std::vector}
+[21:39:07] Reflect Request Template - {std::allocator}
+[21:39:07] Reflect Request Class - {std::basic_string<char,std::char_traits<char>,std::allocator<char> >}
+[21:39:07]     Minimal Reflection
+[21:39:07] Reflect Request Class - {Vec2Di}
+[21:39:07] Reflect Request Class - {Configuration}
+[21:39:07] Reflect Request Enum - {GlobalEnum}
+[21:39:07]     Reflecting Enum - {GlobalEnum}
+[21:39:07]         BLAH = 3
+[21:39:07]         FOREVER = 4
+[21:39:07]         WHAT = -1
+[21:39:07] Reflect Request Class - {PODTest}
+[21:39:07] Reflect Request Class - {ArrayReflection}
+[21:39:09] Reflecting Class - {Name}
+[21:39:09]     Method - Name
+[21:39:09]     Method - Name
+[21:39:09]     Method - Name
+[21:39:09]     Field - string
+[21:39:09]     Field - hash_id
+[21:39:09]     Method - ~Name
+[21:39:09]     Method - operator=
+[21:39:09] Reflecting Class - {Vec2Di}
+[21:39:09]     Field - x
+[21:39:09]     Field - y
+[21:39:09] Reflecting Class - {Configuration}
+[21:39:09]     Push Attributes
+[21:39:09]         group = "Base Group"
+[21:39:09]     Field - window_name
+[21:39:09]     Set Attributes
+[21:39:09]         transient, name = "Resolution", desc = "Specifies the resolution of the thingy", value = 3
+[21:39:09]     Field - resolution
+[21:39:09]     Field - offset
+[21:39:09]     Set Attributes
+[21:39:09]         min = 0.2, max = 0.4
+[21:39:09]     Field - tolerance
+[21:39:09]     Field - high_scores
+[21:39:09]         Reflecting TemplateInstance - {std::vector<int,std::allocator<int> >}
+[21:39:09]             Method - vector<int,std::allocator<int> >
+[21:39:09]             Method - vector<int,std::allocator<int> >
+[21:39:09]             Method - ~vector<int,std::allocator<int> >
+[21:39:09]             Method - operator=
+[21:39:09]     Field - low_scores
+[21:39:09]     Field - names
+[21:39:09]         Reflecting TemplateInstance - {std::vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >}
+[21:39:09]             Method - vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >
+[21:39:09]             Method - vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >
+[21:39:09]             Method - ~vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >
+[21:39:09]             Method - operator=
+[21:39:09]     Pop Attributes
+[21:39:09]     Field - fixed_array
+[21:39:09]     Field - looking_place
+[21:39:09]     Method - Configuration
+[21:39:09]     Method - Configuration
+[21:39:09]     Method - ~Configuration
+[21:39:09]     Method - operator=
+[21:39:09] Reflecting Class - {PODTest}
+[21:39:09]     Reflecting Class - {PODTest::NestedClassTest}
+[21:39:09]     Method - Func
+[21:39:09]     Field - x
+[21:39:09]     Field - u
+[21:39:09]     Field - b
+[21:39:09] Reflecting Class - {ArrayReflection}
+[21:39:09]     Field - a
+[21:39:09]     Field - b
+[21:39:09]     Field - c
+[21:39:09]         <WARNING> Parameter not reflected due to unknown type
+[21:39:09]     Field - d
+[21:39:09] Reflecting Class - {rfl::Module}
+[21:39:09]     Field - global_namespace
+[21:39:09]     Method - Module
+[21:39:09]     Method - Module
+[21:39:09]     Method - ~Module
+[21:39:09]     Method - operator=
+[21:39:09] Reflecting Class - {rfl::Function}
+[21:39:09]     Method - Function
+[21:39:09]     Method - Function
+[21:39:09]     Field - name
+[21:39:09]     Field - call_address
+[21:39:09]     Field - return_parameter
+[21:39:09]     Field - parameters
+[21:39:09]         Reflecting TemplateInstance - {std::vector<rfl::Parameter,std::allocator<rfl::Parameter> >}
+[21:39:09]             Method - vector<rfl::Parameter,std::allocator<rfl::Parameter> >
+[21:39:09]             Method - vector<rfl::Parameter,std::allocator<rfl::Parameter> >
+[21:39:09]             Method - ~vector<rfl::Parameter,std::allocator<rfl::Parameter> >
+[21:39:09]             Method - operator=
+[21:39:09]     Method - Call
+[21:39:09]     Method - Call
+[21:39:09]     Method - ~Function
+[21:39:09]     Method - operator=
+[21:39:09] Reflecting Class - {rfl::Field}
+[21:39:09]     Method - Field
+[21:39:09]     Method - Field
+[21:39:09]     Field - offset
+[21:39:09]     Method - ~Field
+[21:39:09]     Method - operator=
+[21:39:09] Reflecting Class - {rfl::Parameter}
+[21:39:09]     Method - Parameter
+[21:39:09]     Method - Parameter
+[21:39:09]     Reflecting Enum - {rfl::Parameter::Modifier}
+[21:39:09]         VALUE = 0
+[21:39:09]         POINTER = 1
+[21:39:09]         REFERENCE = 2
+[21:39:09]     Field - name
+[21:39:09]     Field - type
+[21:39:09]     Field - is_const
+[21:39:09]     Field - array_rank
+[21:39:09]     Field - array_length_0
+[21:39:09]     Field - array_length_1
+[21:39:09]     Field - modifier
+[21:39:09]     Method - ~Parameter
+[21:39:09]     Method - operator=
+[21:39:09] Reflecting Class - {rfl::Enum}
+[21:39:09]     Reflecting Class - {rfl::Enum::Entry}
+[21:39:09]         Field - name
+[21:39:09]         Field - value
+[21:39:09]         Method - Entry
+[21:39:09]         Method - Entry
+[21:39:09]         Method - ~Entry
+[21:39:09]         Method - operator=
+[21:39:09]     Field - entries
+[21:39:09]         Reflecting TemplateInstance - {std::vector<rfl::Enum::Entry,std::allocator<rfl::Enum::Entry> >}
+[21:39:09]             Method - vector<rfl::Enum::Entry,std::allocator<rfl::Enum::Entry> >
+[21:39:09]             Method - vector<rfl::Enum::Entry,std::allocator<rfl::Enum::Entry> >
+[21:39:09]             Method - ~vector<rfl::Enum::Entry,std::allocator<rfl::Enum::Entry> >
+[21:39:09]             Method - operator=
+[21:39:09]     Method - Enum
+[21:39:09]     Method - Enum
+[21:39:09]     Method - ~Enum
+[21:39:09]     Method - operator=
+[21:39:09] Reflecting Class - {rfl::TemplateInstance}
+[21:39:09]     Field - instance_of
+[21:39:09]     Field - type0
+[21:39:09]     Field - type1
+[21:39:09]     Method - TemplateInstance
+[21:39:09]     Method - TemplateInstance
+[21:39:09]     Method - ~TemplateInstance
+[21:39:09]     Method - operator=
+[21:39:09] Reflecting Class - {rfl::Template}
+[21:39:09]     Method - Template
+[21:39:09]     Method - Template
+[21:39:09]     Method - ~Template
+[21:39:09]     Method - operator=
+[21:39:09] Reflecting Class - {rfl::Class}
+[21:39:09]     Method - Class
+[21:39:09]     Method - Class
+[21:39:09]     Field - is_pod
+[21:39:09]     Field - fields
+[21:39:09]         Reflecting TemplateInstance - {std::vector<rfl::Field,std::allocator<rfl::Field> >}
+[21:39:09]             Method - vector<rfl::Field,std::allocator<rfl::Field> >
+[21:39:09]             Method - vector<rfl::Field,std::allocator<rfl::Field> >
+[21:39:09]             Method - ~vector<rfl::Field,std::allocator<rfl::Field> >
+[21:39:09]             Method - operator=
+[21:39:09]     Method - ~Class
+[21:39:09]     Method - operator=
+[21:39:09] Reflecting Class - {rfl::BaseType}
+[21:39:09]     Method - BaseType
+[21:39:09]     Method - BaseType
+[21:39:09]     Method - ~BaseType
+[21:39:09]     Method - operator=
+[21:39:09] Reflecting Class - {rfl::Type}
+[21:39:09]     Method - Type
+[21:39:09]     Method - Type
+[21:39:09]     Field - unique_id
+[21:39:09]     Field - size
+[21:39:09]     Field - typeof_va
+[21:39:09]     Field - constructor
+[21:39:09]     Field - destructor
+[21:39:09]     Field - copy_constructor
+[21:39:09]     Field - assignment_operator
+[21:39:09]     Field - serialise_func
+[21:39:09]         <WARNING> Parameter not reflected due to unknown type
+[21:39:09]     Field - deserialise_func
+[21:39:09]         <WARNING> Parameter not reflected due to unknown type
+[21:39:09]     Method - CreateObject
+[21:39:09]     Method - ~Type
+[21:39:09]     Method - operator=
+[21:39:09] Reflecting Class - {rfl::Namespace}
+[21:39:09]     Method - Namespace
+[21:39:09]     Method - Namespace
+[21:39:09]     Method - ~Namespace
+[21:39:09]     Method - operator=
+[21:39:09] Reflecting Class - {rfl::Scope}
+[21:39:09]     Method - Scope
+[21:39:09]     Method - Scope
+[21:39:09]     Field - parent_scope
+[21:39:09]     Field - full_name
+[21:39:09]     Field - namespaces
+[21:39:09]         Reflecting TemplateInstance - {std::vector<rfl::Namespace,std::allocator<rfl::Namespace> >}
+[21:39:09]             Method - vector<rfl::Namespace,std::allocator<rfl::Namespace> >
+[21:39:09]             Method - vector<rfl::Namespace,std::allocator<rfl::Namespace> >
+[21:39:09]             Method - ~vector<rfl::Namespace,std::allocator<rfl::Namespace> >
+[21:39:09]             Method - operator=
+[21:39:09]     Field - base_types
+[21:39:09]         Reflecting TemplateInstance - {std::vector<rfl::BaseType,std::allocator<rfl::BaseType> >}
+[21:39:09]             Method - vector<rfl::BaseType,std::allocator<rfl::BaseType> >
+[21:39:09]             Method - vector<rfl::BaseType,std::allocator<rfl::BaseType> >
+[21:39:09]             Method - ~vector<rfl::BaseType,std::allocator<rfl::BaseType> >
+[21:39:09]             Method - operator=
+[21:39:09]     Field - classes
+[21:39:09]         Reflecting TemplateInstance - {std::vector<rfl::Class,std::allocator<rfl::Class> >}
+[21:39:09]             Method - vector<rfl::Class,std::allocator<rfl::Class> >
+[21:39:09]             Method - vector<rfl::Class,std::allocator<rfl::Class> >
+[21:39:09]             Method - ~vector<rfl::Class,std::allocator<rfl::Class> >
+[21:39:09]             Method - operator=
+[21:39:09]     Field - templates
+[21:39:09]         Reflecting TemplateInstance - {std::vector<rfl::Template,std::allocator<rfl::Template> >}
+[21:39:09]             Method - vector<rfl::Template,std::allocator<rfl::Template> >
+[21:39:09]             Method - vector<rfl::Template,std::allocator<rfl::Template> >
+[21:39:09]             Method - ~vector<rfl::Template,std::allocator<rfl::Template> >
+[21:39:09]             Method - operator=
+[21:39:09]     Field - template_instances
+[21:39:09]         Reflecting TemplateInstance - {std::vector<rfl::TemplateInstance,std::allocator<rfl::TemplateInstance> >}
+[21:39:09]             Method - vector<rfl::TemplateInstance,std::allocator<rfl::TemplateInstance> >
+[21:39:09]             Method - vector<rfl::TemplateInstance,std::allocator<rfl::TemplateInstance> >
+[21:39:09]             Method - ~vector<rfl::TemplateInstance,std::allocator<rfl::TemplateInstance> >
+[21:39:09]             Method - operator=
+[21:39:09]     Field - enums
+[21:39:09]         Reflecting TemplateInstance - {std::vector<rfl::Enum,std::allocator<rfl::Enum> >}
+[21:39:09]             Method - vector<rfl::Enum,std::allocator<rfl::Enum> >
+[21:39:09]             Method - vector<rfl::Enum,std::allocator<rfl::Enum> >
+[21:39:09]             Method - ~vector<rfl::Enum,std::allocator<rfl::Enum> >
+[21:39:09]             Method - operator=
+[21:39:09]     Field - functions
+[21:39:09]         Reflecting TemplateInstance - {std::vector<rfl::Function,std::allocator<rfl::Function> >}
+[21:39:09]             Method - vector<rfl::Function,std::allocator<rfl::Function> >
+[21:39:09]             Method - vector<rfl::Function,std::allocator<rfl::Function> >
+[21:39:09]             Method - ~vector<rfl::Function,std::allocator<rfl::Function> >
+[21:39:09]             Method - operator=
+[21:39:09]     Method - ~Scope
+[21:39:09]     Method - operator=
+[21:39:09] Reflecting Class - {std::basic_string<char,std::char_traits<char>,std::allocator<char> >}
+[21:39:09]     Method - basic_string<char,std::char_traits<char>,std::allocator<char> >
+[21:39:09]     Method - basic_string<char,std::char_traits<char>,std::allocator<char> >
+[21:39:09]     Method - ~basic_string<char,std::char_traits<char>,std::allocator<char> >
+[21:39:09]     Method - operator=
